@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Alexandre Bonnamain!</h2>
-<p><em>Front End Developer <a href="xxxxx">xxxxx</a><br />
+<p><em>Front End Developer <a href="xxxxx">freelancer</a><br />
 Graduated in Internet Systems from <a href="https://portal.anhembi.br/">University Anhembi Morumbi </a><br />
 </p> </em>
 
