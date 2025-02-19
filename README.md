@@ -11,9 +11,9 @@ Graduated in Software Engineering from <a href="https://www.anhanguera.com/">Uni
 ```javascript
   const alex = {
   pronouns: "he" | "him",
-  code: [Rust, Python, Shell Script, Assembly],
-  tools: [VIM, NANO, GNU/Linux, FreeBSD, UNIX],
-  hobbies: [Coding, Gaming, Reading, BJJ,
+  code: [Python, SQL, JavaScript, TypeScript, HTML, CSS],
+  tools: [VIM, NANO, GNU/Linux],
+  hobbies: [Coding, Gaming, Reading, BJJ]
   techCommunities: {
                         coorganizer: "FLISoL Porto Alegre RS",
                       },
