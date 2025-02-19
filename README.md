@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Alexandre Bonnamain!</h2>
-<p><em>Sysadmin Linux <a href="xxxxx">freelancer</a><br />
-Graduated in Software Engineering from <a href="https://www.anhanguera.com/">University Anhanguera </a><br />
+<p><em>Programmer <a href="xxxxx">freelancer</a><br />
+Graduated in Computer Science from <a href="https://www.anhanguera.com/">Universidade Católica de Brasília</a><br />
 </p> </em>
 
 [![GitHub Alexandre Bonnamain](https://img.shields.io/github/followers/alexbonnamain?label=follow&style=social)](https://github.com/alexbonnamain)
