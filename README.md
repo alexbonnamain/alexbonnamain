@@ -12,7 +12,7 @@ Graduated in Computer Science from <a href="https://ucb.catolica.edu.br/">Univer
   const alex = {
   pronouns: "he" | "him",
   code: [Python, SQL, JavaScript, TypeScript, HTML, CSS],
-  tools: [VIM, NANO, GNU/Linux],
+  tools: [React, Node.js],
   hobbies: [Coding, Gaming, Reading, BJJ]
   techCommunities: {
                         coorganizer: "FLISoL Porto Alegre RS",
