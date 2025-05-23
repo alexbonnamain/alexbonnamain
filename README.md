@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Alexandre Bonnamain!</h2>
 <p><em>Programmer <a href="xxxxx">freelancer</a><br />
-Graduated in Computer Science from <a href="https://ucb.catolica.edu.br/">University Católica de Brasília</a><br />
+Graduated in Computer Engineering from <a href="https://www.impacta.edu.br/">University Impacta</a><br />
 </p> </em>
 
 [![GitHub Alexandre Bonnamain](https://img.shields.io/github/followers/alexbonnamain?label=follow&style=social)](https://github.com/alexbonnamain)
