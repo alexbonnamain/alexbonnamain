@@ -2,13 +2,10 @@
 <h2>Hi, I'm Alexandre Bonnamain!</h2>
 <p><em>
 Freelance <a href="xxxxx" target="_blank" rel="noopener noreferrer">Software Developer</a><br />
-
 Bachelor’s Degree in Computer Science (in progress) — 
 <a href="https://www.uniritter.edu.br/">UniRitter University</a><br />
-
 Associate Degree in Internet Systems — 
 <a href="https://faculdadefaps.edu.br/">FAPS College</a><br />
-
 Technical Certificate in IT — 
 <a href="https://alcidesmaya.edu.br/">Alcides Maya Technical School</a><br />
 
