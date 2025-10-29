@@ -20,7 +20,7 @@ Technical Certificate in IT —
   const alex = {
   pronouns: "he" | "him",
   code: [Python, SQL, JavaScript, TypeScript, HTML, CSS],
-  tools: [React, Node.js],
+  tools: [React, Node.js, MySQL, PostgreSQL],
   hobbies: [Coding, Gaming, Reading, BJJ]
   techCommunities: {
                         coorganizer: "FLISoL Porto Alegre RS",
