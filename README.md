@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Alexandre Bonnamain!</h2>
 <p><em>
-Freelance <a href="xxxxx" target="_blank" rel="noopener noreferrer">Software Developer</a><br />
+reelance <a href="xxxxx" target="_blank" rel="noopener noreferrer">Software Developer</a><br />
 
 Bachelor’s Degree in Computer Science (in progress) — 
 <a href="https://www.uniritter.edu.br/" target="_blank" rel="noopener noreferrer">UniRitter University</a><br />
