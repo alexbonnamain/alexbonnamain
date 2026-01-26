@@ -1,38 +1,25 @@
+<h1 align="center">Alexandre Bonnamain</h1>
 
-<h2>Hi, I'm Alexandre Bonnamain!</h2>
-<p><em>
-  
-Bachelor’s Degree in Computer Science (in progress) — 
-<a href="https://www.uniritter.edu.br/">UFBRA University</a><br />
+<p align="center">
+  <b>Cybersecurity Specialist · Red Team · Linux & Infrastructure</b><br>
+  <em>15+ years building, securing, and breaking real-world systems.</em>
+</p>
 
-Associate Degree in Internet Systems — 
-<a href="https://faculdadefaps.edu.br/">FAPS University</a><br />
-
-Information Technology Technician — 
-<a href="https://alcidesmaya.edu.br/">Alcides Maya Technical School</a><br />
-
-Computer Networking Technician — 
-<a href="www.maxwell.com.br">Maxwell Technical School</a><br />
-
-[![GitHub Alexandre Bonnamain](https://img.shields.io/github/followers/alexbonnamain?label=follow&style=social)](https://github.com/alexbonnamain)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-  const alex = {
-  pronouns: "he" | "him",
-  code: [Python, C, Assembly],
-  tools: [MySQL, PostgreSQL, GNU/Linux, FreeBSD, VIM, Emacs],
-  hobbies: [Coding, Gaming, Reading, BJJ]
-  techCommunities: {
-                        coorganizer: "FLISoL Porto Alegre RS",
-                      },
- challenge: " "
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/alexbonnamain?label=follow&style=for-the-badge&logo=github&color=222">
+</p>
 
 ---
 
-⭐️ From [@alexbonnamain](https://github.com/alexbonnamain)
+### ⚡ Operational Security Loop
+
+```nasm
+section .text
+global _start
+
+_start:
+    call    init_security        ; prepare environment & trust boundaries
+    call    analyze_binary       ; reverse engineering & low-level analysis
+    call    exploit_surface      ; identify and break attack surfaces
+    call    harden_system        ; apply mitigations & defensive controls
+    jmp     _start               ; continuous security lifecycle
