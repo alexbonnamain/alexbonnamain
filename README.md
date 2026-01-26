@@ -1,16 +1,18 @@
 
 <h2>Hi, I'm Alexandre Bonnamain!</h2>
 <p><em>
-Freelance <a href="xxxxx" target="_blank" rel="noopener noreferrer">Software Developer</a><br />
   
 Bachelor’s Degree in Computer Science (in progress) — 
-<a href="https://www.uniritter.edu.br/">UniRitter University</a><br />
+<a href="https://www.uniritter.edu.br/">UFBRA University</a><br />
 
 Associate Degree in Internet Systems — 
-<a href="https://faculdadefaps.edu.br/">FAPS College</a><br />
+<a href="https://faculdadefaps.edu.br/">FAPS University</a><br />
 
-Technical Certificate in IT — 
+Information Technology Technician — 
 <a href="https://alcidesmaya.edu.br/">Alcides Maya Technical School</a><br />
+
+Computer Networking Technician — 
+<a href="www.maxwell.com.br">Maxwell Technical School</a><br />
 
 [![GitHub Alexandre Bonnamain](https://img.shields.io/github/followers/alexbonnamain?label=follow&style=social)](https://github.com/alexbonnamain)
 
@@ -19,8 +21,8 @@ Technical Certificate in IT —
 ```javascript
   const alex = {
   pronouns: "he" | "him",
-  code: [Python, SQL, JavaScript, TypeScript, HTML, CSS],
-  tools: [React, Node.js, MySQL, PostgreSQL],
+  code: [Python, C, Assembly],
+  tools: [MySQL, PostgreSQL, GNU/Linux, FreeBSD, VIM, Emacs],
   hobbies: [Coding, Gaming, Reading, BJJ]
   techCommunities: {
                         coorganizer: "FLISoL Porto Alegre RS",
