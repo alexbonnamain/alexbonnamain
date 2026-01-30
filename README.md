@@ -1,25 +1,25 @@
-<h1 align="center">Alexandre Bonnamain</h1>
+<h2> Hi, I'm Alexandre Bonnamain!</h2>
+<p><em>Internet Systems at <a href="https://faculdadefaps.edu.br/">University of FAPS</a>
+</br>Computer Science at <a href="https://ufbra.com.br/">University of UFBRA</a>
+</em></p>
 
-<p align="center">
-  <b>Cybersecurity Specialist · Red Team · Linux & Infrastructure</b><br>
-  <em>15+ years building, securing, and breaking real-world systems.</em>
-</p>
+### A little more about me...  
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/alexbonnamain?label=follow&style=for-the-badge&logo=github&color=222">
-</p>
+```javascript
+const Alex = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [Cypress, Robot Framework, Docker, GitHub],
+  architecture: ["Reading", "Game Mastering (RPG)", "Practicing Jiu-Jitsu", "Playing Guitar"],
+  techCommunities: {
+                        coorganizer: "FLISOL Porto Alegre - RS",
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-### ⚡ Operational Security Loop
-
-```nasm
-section .text
-global _start
-
-_start:
-    call    init_security        ; prepare environment & trust boundaries
-    call    analyze_binary       ; reverse engineering & low-level analysis
-    call    exploit_surface      ; identify and break attack surfaces
-    call    harden_system        ; apply mitigations & defensive controls
-    jmp     _start               ; continuous security lifecycle
+⭐️ From [@Thaiane](https://github.com/Thaiane)
