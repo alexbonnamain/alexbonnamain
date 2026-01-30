@@ -22,4 +22,3 @@ const Alex = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
