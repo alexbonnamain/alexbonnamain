@@ -8,7 +8,7 @@
 ```javascript
 const Alex = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  code: [Python, Javascript, Typescript, HTML, CSS],
   tools: [Cypress, Robot Framework, Docker, GitHub],
   architecture: ["Reading", "Game Mastering (RPG)", "Practicing Jiu-Jitsu", "Playing Guitar"],
   techCommunities: {
