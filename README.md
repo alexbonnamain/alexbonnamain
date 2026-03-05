@@ -114,7 +114,3 @@ https://www.linkedin.com/in/alexandre-bonnamain
 ---
 
 ⚠️ This repository is intended for **educational and research purposes only**.
-
----
-
-> "In low-level we trust. Everything else is just overhead."
