@@ -26,9 +26,11 @@
 * **IT Instructor** — 8 years teaching Linux, Networking, and Programming.
 
 ---
-> "In low-level we trust. Everything else is just overhead."
 
----
 ### 📫 [CONTACT_ME]
 * **LinkedIn:** [alexandre-bonnamain](https://www.linkedin.com/in/alexandre-bonnamain)
 * **E-mail:** [bonnamainalexandre@gmail.com](mailto:bonnamainalexandre@gmail.com)
+
+---
+
+> "In low-level we trust. Everything else is just overhead."
