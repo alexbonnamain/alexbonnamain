@@ -6,7 +6,7 @@
 ### 📂 SYSTEM_INFO
 * **EXPERIENCE**: > 20 years in mission-critical environments.
 * **CORE**: Reverse Engineering, Threat Intelligence, Blue Team Ops.
-* **ACADEMIC**: Software Engineering @ ULBRA (In Progress).
+* **OS_KERNELS**: Expert in GNU/Linux, UNIX, and FreeBSD systems.
 
 ### 🛠️ KERNEL_CAPABILITIES
 * **REVERSE_ENGINEERING**: Static & Dynamic analysis of malicious artifacts.
