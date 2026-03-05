@@ -1,29 +1,40 @@
 # 💀 [ROOT] :: Alexandre Bonnamain
-**Blue Team | System Security Researcher | Malware Analyst | Low-Level Dev**
+**Security Researcher | Malware Analyst | Blue Team | Low-Level Systems**
 
 ---
 
-### 📂 SYSTEM_INFO
-* **EXPERIENCE**: > 20 years in mission-critical environments.
-* **CORE**: Reverse Engineering, Threat Intelligence, Blue Team Ops.
-* **OS_KERNELS**: Expert in GNU/Linux, UNIX, and FreeBSD systems.
+## 📂 SYSTEM_PROFILE
+- **EXPERIENCE**: 20+ years in mission-critical IT environments.
+- **FOCUS**: Malware Analysis, Reverse Engineering, Threat Intelligence.
+- **SYSTEMS**: GNU/Linux, UNIX and FreeBSD security, internals and hardening.
 
-### 🛠️ KERNEL_CAPABILITIES
-* **REVERSE_ENGINEERING**: Static & Dynamic analysis of malicious artifacts.
-* **LANGUAGES**: `ASM x86/64`, `Python`, `C/C++` (Reading), `Bash`.
-* **INFRA_HARDENING**: Linux Kernel security, Firewalling, Network Segmentation.
-* **AUTOMATION**: Development of custom security tools and incident response scripts.
+---
 
-### 🔬 ACTIVE_LABS
-* **MALWARE_ANALYSIS**: Controlling and detonating samples in isolated environments.
-* **ASM_RESEARCH**: Documenting x86/64 instruction sets for vulnerability research.
-* **LINUX_DEEP_SEC**: Advanced hardening for Debian/Red Hat enterprise servers.
+## 🛠️ CORE_CAPABILITIES
+- **REVERSE_ENGINEERING** — Static & Dynamic analysis of malicious artifacts.
+- **MALWARE_ANALYSIS** — Behavioral analysis in controlled lab environments.
+- **LANGUAGES** — `ASM x86/64`, `Python`, `C/C++ (code analysis)`, `Bash`.
+- **SYSTEM_SECURITY** — Linux kernel hardening, firewalling, network segmentation.
+- **AUTOMATION** — Development of custom security tools and incident response scripts.
 
-### 📚 ACADEMIC BACKGROUND
-* **B.S. Software Engineering** — ULBRA (In Progress)
-* **Associate Degree, Internet Systems** — FAPS
-* **IT Technician** — Escola Técnica Alcides Maya
-* **IT Instructor** — 8 years teaching Linux, Networking, and Programming.
+---
+
+## 🔬 RESEARCH_LABS
+- **MALWARE_RESEARCH** — Controlled detonation and behavioral study of malware samples.
+- **ASM_RESEARCH** — Documentation and exploration of x86/64 instruction sets.
+- **LINUX_DEEP_SEC** — Advanced hardening for Debian and Red Hat enterprise systems.
+
+---
+
+## 📚 EDUCATION
+- **Bachelor of Science Software Engineering** — ULBRA *(In Progress)*
+- **Associate Degree, Internet Systems** — FAPS
+- **IT Technician** — Escola Técnica Alcides Maya
+
+---
+
+## 👨‍🏫 EXPERIENCE
+- **IT Instructor** — 8 years teaching Linux, Networking and Programming.
 
 ---
 
