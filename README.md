@@ -29,7 +29,7 @@
 
 ### 📫 [CONTACT_ME]
 * **LinkedIn:** [alexandre-bonnamain](https://www.linkedin.com/in/alexandre-bonnamain)
-* **E-mail:** [bonnamainalexandre@gmail.com](mailto:bonnamainalexandre@gmail.com)
+* **E-mail:** [xxxxxxx](mailto:xxxxxxx)
 
 ---
 
