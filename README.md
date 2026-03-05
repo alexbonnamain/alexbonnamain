@@ -1,4 +1,4 @@
-# 🧪 Malware Research Lab [Blue Team Edition]
+# 🧪 Malware Research Lab [Blue Team]
 
 > Controlled detonation, threat hunting & behavioral research.
 
