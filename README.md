@@ -1,35 +1,34 @@
-# 🛡️ Alexandre Bonnamain
-### **Infrastructure Specialist | Blue Team Operations | Malware Analysis (Assembly x86/64)**
-
-> Profissional de Tecnologia da Informação com mais de 20 anos de experiência em infraestrutura crítica, focado em Cybersecurity com ênfase em análise de ameaças e engenharia reversa.
+# 💀 [ROOT] :: Alexandre Bonnamain
+**Blue Team | System Security Researcher | Malware Analyst | Low-Level Dev**
 
 ---
 
-### 🚀 Sobre Mim
-* **Experiência:** +20 anos atuando com ambientes GNU/Linux/UNIX de missão crítica e alta disponibilidade.
-* **Foco Atual:** Operações de **Blue Team**, detecção de ameaças e análise profunda de comportamento de malware.
-* **Diferencial Técnico:** Sólido conhecimento em **Assembly (x86/64)** e **Engenharia Reversa** aplicados à segurança.
-* **Educação:** Graduando em Engenharia de Software pela **FADERGS**.
+### 📂 SYSTEM_INFO
+* **EXPERIENCE**: > 20 years in mission-critical environments.
+* **CORE**: Reverse Engineering, Threat Intelligence, Blue Team Ops.
+* **ACADEMIC**: Software Engineering @ ULBRA (In Progress).
 
-### 🛠️ Core Expertise
-* **Cybersecurity:** Blue Team Operations, Incident Response e Server Hardening.
-* **Low-Level Security:** Malware Analysis e Reverse Engineering utilizando **Assembly**.
-* **Infrastructure:** Administração avançada de Linux (Debian/Red Hat) e Redes (TCP/IP, VLAN, Firewall).
-* **Automation:** Desenvolvimento de ferramentas de segurança e automação com **Python** e **Bash**.
+### 🛠️ KERNEL_CAPABILITIES
+* **REVERSE_ENGINEERING**: Static & Dynamic analysis of malicious artifacts.
+* **LANGUAGES**: `ASM x86/64`, `Python`, `C/C++` (Reading), `Bash`.
+* **INFRA_HARDENING**: Linux Kernel security, Firewalling, Network Segmentation.
+* **AUTOMATION**: Development of custom security tools and incident response scripts.
 
-### 💻 Technical Stack
-* **Linguagens:** Python, Assembly, Bash / Shell Script, PHP.
-* **Sistemas:** Linux (Debian, Red Hat), UNIX, Windows Server.
-* **Segurança:** Log Analysis, Threat Detection, Incident Investigation e ACLs/GPO.
-* **Conceitos:** ITIL, SDLC, DevSecOps e Malware Behavioral Analysis.
+### 🔬 ACTIVE_LABS
+* **MALWARE_ANALYSIS**: Controlling and detonating samples in isolated environments.
+* **ASM_RESEARCH**: Documenting x86/64 instruction sets for vulnerability research.
+* **LINUX_DEEP_SEC**: Advanced hardening for Debian/Red Hat enterprise servers.
 
-### 📊 Labs & Pesquisa
-* Manutenção de laboratório controlado para análise estática e dinâmica de códigos maliciosos.
-* Desenvolvimento de scripts para automação de hardening e resposta a incidentes.
-* Pesquisa contínua em engenharia reversa para fortalecimento da postura de segurança.
+### 📚 ACADEMIC BACKGROUND
+* **B.S. Software Engineering** — ULBRA (In Progress)
+* **Associate Degree, Internet Systems** — FAPS
+* **IT Technician** — Escola Técnica Alcides Maya
+* **IT Instructor** — 8 years teaching Linux, Networking, and Programming.
 
 ---
+> "In low-level we trust. Everything else is just overhead."
 
-### 📫 Contato
+---
+### 📫 [CONTACT_ME]
 * **LinkedIn:** [alexandre-bonnamain](https://www.linkedin.com/in/alexandre-bonnamain)
-* **E-mail:** 
+* **E-mail:** [bonnamainalexandre@gmail.com](mailto:bonnamainalexandre@gmail.com)
