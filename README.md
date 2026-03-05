@@ -19,20 +19,21 @@
 
  LAB INFRASTRUCTURE
 
-     Host System (Linux)
-             │
-        Hypervisor
-       (VirtualBox)
-             │
-      Isolated Network
+        Host System (Linux)
+                │
+           Hypervisor
+          (VirtualBox)
+                │
+         Isolated Network
+                │
         ┌───────────────┐
         │  Analysis VM  │
         │ Malware Exec  │
         └───────────────┘
-               │
+                │
         ┌───────────────┐
         │ Monitoring VM │
-        │ PCAP / Logs   │
+        │  PCAP / Logs  │
         └───────────────┘
 
 ────────────────────────────────────────────────
@@ -69,7 +70,7 @@
  Blue Team | Malware Analysis | Reverse Engineering
 
  LinkedIn
- LinkedIn: https://www.linkedin.com/in/alexandre-bonnamain-b759623b3/
+ https://www.linkedin.com/in/alexandre-bonnamain-b759623b3/
 
 ────────────────────────────────────────────────
 ```
