@@ -9,16 +9,17 @@
                  BACKEND ENGINEER
 
 
-alex@backend:~$ whoami
+PS C:\Users\alex> whoami
 Backend Engineer
 
-alex@backend:~$ stack
-Python | PHP | Node.js
-MySQL  | MongoDB
-Linux  | REST APIs
+PS C:\Users\alex> Get-Stack
+Language   : Python, PHP, TypeScript, Node.js
+Database   : MySQL, MongoDB
+Framework  : Laravel
+System     : Windows, Gnu/Linux, FreeBSD
 
-alex@backend:~$ status
-Building scalable and secure backend systems
+PS C:\Users\alex> Get-Mission
+Building scalable, secure and high-performance backend systems
 
-alex@backend:~$ _
+PS C:\Users\alex>
 ```
