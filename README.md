@@ -86,7 +86,7 @@ The main focus of this GitHub remains systems, networking and server security.
 - **Technical Degree in Computer Networks**, Escola Técnica Alcides Maya — 2026
 - **Technical Degree in Internet Systems**, Escola Técnica Alcides Maya — 2026
 
-## Let's Connect
+## 📫 Let's Connect
 
 If you want to talk about Linux, FreeBSD, Unix, networking or systems security:
 
