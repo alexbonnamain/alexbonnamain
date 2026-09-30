@@ -1,238 +1,96 @@
-# Hi, I'm Alexandre Bonnamain 👋
+<h1 align="center">Alexandre Bonnamain</h1>
 
-### Unix & Linux Systems Laboratory
+<p align="center">
+  <b>Red Hat Ecosystem | FreeBSD & Unix Systems | Networking | Server Security | Python & Shell Automation</b>
+</p>
 
-**Red Hat Ecosystem | Unix & Unix-like Systems | Networking | Server Security | Python & Shell Automation**
+I'm building this GitHub as a **systems laboratory** around Linux, Unix, networking, server security and automation.
 
-I use this GitHub as a **systems laboratory**.
-
-My work here focuses on **Unix/Linux administration, networking, server security and automation**, with particular interest in the **Red Hat ecosystem and Unix/Unix-like systems**.
-
-I build environments, test configurations, investigate failures, compare system behavior and document what I learn.
-
-The goal is simple: understand systems deeply enough to **operate, secure, troubleshoot and improve them**.
+As the lab grows, I'm documenting configurations, tests, troubleshooting and the differences I find between systems.
 
 **Build. Test. Break. Diagnose. Document. Improve.**
 
 Usually with coffee nearby. ☕
 
----
-
-## 🧪 Laboratory Areas
-
-**Systems · Networking · Security · Automation**
-
-The lab includes practical work with:
-
-- Enterprise Linux
-- Unix and Unix-like systems
-- Network services and infrastructure
-- Server hardening
-- Firewalls and access control
-- Storage and filesystems
-- Virtualization
-- Python and Shell automation
-
----
-
-## 🖥️ Operating Systems
+## Systems
 
 ### Red Hat Ecosystem
 
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 
-### Unix & Unix-like Systems
+RHEL and Fedora are the main Linux environments in the lab.
 
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![OpenBSD](https://img.shields.io/badge/OpenBSD-FFD221?style=for-the-badge&logo=openbsd&logoColor=black)
-![NetBSD](https://img.shields.io/badge/NetBSD-FF6600?style=for-the-badge&logo=netbsd&logoColor=white)
-![Solaris](https://img.shields.io/badge/Solaris-E52222?style=for-the-badge&logo=oracle&logoColor=white)
+SELinux · systemd · firewalld · LVM · Storage · Package Management · Troubleshooting
 
-I use these systems to study and compare:
+The lab also supports my preparation for Red Hat certification.
 
-- Service management
-- Networking
-- Storage
-- Security
-- Access control
-- Logging
-- Package management
-- Troubleshooting
-- Automation
+### FreeBSD & Unix
 
----
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
+![ZFS](https://img.shields.io/badge/ZFS-Storage-2C3E50?style=flat-square)
+![FreeBSD Jails](https://img.shields.io/badge/FreeBSD_Jails-Isolation-AB2B28?style=flat-square)
 
-## 🔴 Red Hat Laboratory
+FreeBSD is the main BSD system in the lab and my reference point for comparing Unix and Linux administration.
 
-Focus areas:
+`rc.d` · Jails · ZFS · Networking · Firewalls · Hardening · Package Management · Troubleshooting
 
-- Red Hat Enterprise Linux
-- SELinux
-- systemd
-- firewalld
-- Users, groups and permissions
-- SSH
-- LVM
-- Filesystems and storage
-- Package management
-- Logging
-- Service management
-- Troubleshooting
-- Python and Shell automation
+Across both Linux and FreeBSD environments, I work with users and permissions, SSH, services and logging.
 
-This lab also supports my preparation for Red Hat certification and deeper enterprise Linux administration.
+OpenBSD, NetBSD and Solaris will be used when they make sense for comparison and study.
 
----
+## Networking
 
-## 🐚 Unix & Unix-like Laboratory
+Networking is one of the main parts of the lab. I study it together with the systems that actually run the services.
 
-I use BSD and Unix environments to study how different systems solve similar administration problems.
+TCP/IP · IPv4/IPv6 · Subnetting · Routing · DNS · DHCP · NAT · VLANs · Segmentation · Firewalls · Troubleshooting
 
-Current areas include:
+## Server Security
 
-- System initialization and services
-- Filesystems and storage
-- Networking
-- Process management
-- Users and permissions
-- Firewalls
-- Hardening
-- Logging
-- Package management
-- Shell environments
-- Troubleshooting
+My security focus is mainly on servers and operating systems.
 
-The objective is not to collect operating systems, but to understand their design choices and operational differences.
+Hardening · SSH · Access Control · Firewalls · Service Exposure · Logging and Auditing · Patch Management · Configuration Validation
 
----
+I treat security as part of the system configuration from the beginning.
 
-## 🌐 Networking
+## Python & Shell Automation
 
-Areas of study:
+Python and Shell are the main languages I use for systems automation.
 
-- TCP/IP
-- IPv4 and IPv6
-- Subnetting
-- Routing
-- DNS
-- DHCP
-- NAT
-- VLANs
-- Network segmentation
-- Firewall policies
-- Packet analysis
-- Network troubleshooting
+I use them for administrative scripts, service and system checks, log processing, network diagnostics and repetitive tasks.
 
-Networking is treated as part of the operating system and infrastructure, not as an isolated subject.
+I prefer small tools that are easy to understand, test and maintain.
 
----
+## Lab Infrastructure
 
-## 🔐 Server Security
+Virtualization lets me isolate systems and reproduce network and server scenarios without mixing everything into the host environment.
 
-My security work is centered on systems and infrastructure.
+**KVM · libvirt · Virtual Machine Manager · Vagrant · VirtualBox · Docker**
 
-Areas include:
+<details>
+<summary><b>Security Research</b></summary>
 
-- Unix/Linux server hardening
-- SSH security
-- Access control
-- SELinux
-- Firewalls
-- Network segmentation
-- Service exposure reduction
-- Logging and auditing
-- Patch management
-- Configuration validation
-- Security monitoring
+<br>
 
-Security is part of administration and architecture, not something added after deployment.
+Security research is a secondary area of study.
 
----
+Malware analysis · Static analysis · Reverse engineering fundamentals · Executable structure · Process behavior · Log and artifact analysis · Basic Assembly · Python tooling
 
-## 🐍 Python & Shell Automation
+The main focus of this GitHub remains systems, networking and server security.
 
-Python and Shell are used to automate practical system tasks.
+</details>
 
-Examples:
+## Education
 
-- System health checks
-- Service validation
-- Log analysis
-- Network diagnostics
-- Configuration checks
-- Security checks
-- Administrative routines
-- Monitoring
-- Reporting
-- Cross-platform tooling
+- **Systems Analysis and Development**, UniCesumar — in progress
+- **Technical Degree in Computer Networks**, Escola Técnica Alcides Maya — 2026
+- **Technical Degree in Internet Systems**, Escola Técnica Alcides Maya — 2026
 
-I prefer building tools that solve real infrastructure problems.
+## Let's Connect
 
----
+If you want to talk about Linux, FreeBSD, Unix, networking or systems security:
 
-## 🧱 Lab Infrastructure
-
-I use virtualization to reproduce and isolate systems, networks and security scenarios.
-
-Current tools include:
-
-- KVM
-- libvirt
-- Virtual Machine Manager
-- Vagrant
-- VirtualBox
-- Docker
-- Virtual networking
-- Multi-VM environments
-
----
-
-## 🔬 Security Research
-
-Low-level security research complements the systems laboratory.
-
-Current areas of study include:
-
-- Malware analysis
-- Static analysis
-- Reverse engineering fundamentals
-- Executable structure
-- Process behavior
-- Log and artifact analysis
-- Basic Assembly
-- Python tooling for security analysis
-
-This remains secondary to the main focus: **systems, networking and server security**.
-
----
-
-## 🛠️ Technical Background
-
-My background includes **Linux and Unix systems administration, Red Hat Enterprise Linux, FreeBSD, Windows Server, networking, infrastructure, virtualization, Python, Shell Script, SQL and Web infrastructure**.
-
-I am particularly interested in problems that cross the boundaries between **operating systems, networks, security and automation**.
-
----
-
-## 🎓 Education
-
-**Systems Analysis and Development**  
-UniCesumar — In progress
-
-**Technical Degree in Computer Networks**  
-Escola Técnica Alcides Maya — Completed in 2026
-
-**Technical Degree in Internet Systems**  
-Escola Técnica Alcides Maya — Completed in 2026
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre_Bonnamain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-bonnamain-8a7a213a4/)
-
-GitHub: **[@alexbonnamain](https://github.com/alexbonnamain)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre_Bonnamain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-bonnamain-8a7a213a4/)
 
 ---
 
