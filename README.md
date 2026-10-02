@@ -4,11 +4,9 @@
 
 I've been a nerd for as long as I can remember.
 
-I'm passionate about technology, programming and understanding how things work behind the scenes. My main focus is **back-end development**, especially APIs, databases, integrations and web applications.
+I'm passionate about technology, programming and understanding how things work behind the scenes. My main focus is **back-end development**, working with APIs, databases, integrations and web applications.
 
-I work mainly with **Python, Django, PHP, Laravel and MySQL**. I also use front-end technologies when needed and enjoy understanding the application as a whole.
-
-I'm a big fan of **Ubuntu, Linux and open source**, both for development and for learning how software works beyond the code.
+I work mainly with **Python, Django, PHP, Laravel and MySQL**. I also use front-end technologies when needed and like understanding the application as a whole — from the database to the browser.
 
 ---
 
@@ -17,6 +15,8 @@ I'm a big fan of **Ubuntu, Linux and open source**, both for development and for
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,mysql,html,css,js,react,docker,ubuntu,git,github,vscode" />
 </p>
+
+💜 **Ubuntu is my favorite development environment.**
 
 ### ⚙️ Back-end
 
@@ -34,11 +34,9 @@ I'm a big fan of **Ubuntu, Linux and open source**, both for development and for
 
 ## 🐧 Linux & Open Source
 
-Ubuntu has a special place in my tech journey.
+Ubuntu is my favorite development environment.
 
-It's my favorite environment for development, studying and experimenting with technology. I also enjoy open source and learning by exploring how software is built, configured and maintained.
-
-For me, Linux is part of the fun.
+I enjoy Linux, open source and understanding what happens beyond the application code — from the development environment to the server running it.
 
 ---
 
@@ -48,17 +46,17 @@ I'm also an **instructor and speaker**.
 
 I enjoy sharing what I learn about programming, databases, web development, Linux and technology.
 
-Teaching is also one of the ways I keep learning.
+Teaching is one of the ways I keep learning.
 
 ---
 
 ## 🧪 Tech Hobbies
 
-Outside my main stack, I enjoy studying and experimenting with:
+When I'm not focused on back-end development, I enjoy exploring:
 
 `Artificial Intelligence` · `Computer Vision`
 
-These are areas I explore out of curiosity and because I genuinely enjoy learning how they work.
+I study them out of curiosity and because experimenting with technology is part of what keeps programming fun for me.
 
 ---
 
