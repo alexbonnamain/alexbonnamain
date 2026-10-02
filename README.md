@@ -6,81 +6,39 @@ I've been a nerd for as long as I can remember.
 
 I'm passionate about technology, programming and understanding how things work behind the scenes. My main focus is **back-end development**, especially APIs, databases, integrations and web applications.
 
-I work mainly with **Python, Django, PHP, Laravel and MySQL**. I also use HTML, CSS, JavaScript and React when a project needs a complete interface.
+I work mainly with **Python, Django, PHP, Laravel and MySQL**. I also use front-end technologies when needed and enjoy understanding the application as a whole.
 
-I love **Ubuntu**, open source and building things just to understand how they work.
-
----
-
-## 🧪 My Tech Lab
-
-I see this GitHub as my personal technology laboratory.
-
-Here you'll find projects, experiments and studies around:
-
-- 🐍 Python & Django
-- 🐘 PHP & Laravel
-- 🗄️ MySQL & SQL
-- 🔌 REST APIs & integrations
-- 🐳 Docker
-- 🐧 Ubuntu & Linux
-- ⚙️ Automation
-- 👁️ Computer Vision
-- 🤖 Artificial Intelligence
-
-Some projects are built to solve real problems.
-
-Others exist simply because I was curious enough to ask:
-
-**"What happens if I try this?"**
+I'm a big fan of **Ubuntu, Linux and open source**, both for development and for learning how software works beyond the code.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,mysql,js,react,docker,ubuntu,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,mysql,html,css,js,react,docker,ubuntu,git,github,vscode" />
 </p>
 
-### Back-end
+### ⚙️ Back-end
 
-`Python` · `Django` · `PHP` · `Laravel` · `REST APIs`
+`Python` · `Django` · `PHP` · `Laravel` · `REST APIs` · `MySQL`
 
-### Database
+### 🌐 Front-end
 
-`MySQL` · `SQL` · `Data Modeling`
+`HTML` · `CSS` · `JavaScript` · `React`
 
-### AI & Computer Vision
+### 🐧 Linux & Tools
 
-`Python` · `OpenCV` · `Machine Learning`
-
-### Tools & Environment
-
-`Ubuntu` · `Docker` · `Git` · `GitHub`
+`Ubuntu` · `Linux` · `Docker` · `Git` · `GitHub`
 
 ---
 
-## 🐧 Ubuntu & Open Source
+## 🐧 Linux & Open Source
 
 Ubuntu has a special place in my tech journey.
 
-It's my favorite environment for development, studying and experimenting with technology.
-
-I also enjoy open source and the idea of learning by exploring how other developers build software, solving problems and sharing knowledge with the community.
+It's my favorite environment for development, studying and experimenting with technology. I also enjoy open source and learning by exploring how software is built, configured and maintained.
 
 For me, Linux is part of the fun.
-
----
-
-## 👁️ AI & Computer Vision
-
-Outside my main back-end stack, one of my favorite areas to explore is **Artificial Intelligence and Computer Vision**.
-
-I enjoy experimenting with Python, OpenCV, images, models and different ways of making software understand visual information.
-
-This is the experimental side of my lab.
-
-Sometimes learning something simply because it's interesting is reason enough.
 
 ---
 
@@ -94,47 +52,13 @@ Teaching is also one of the ways I keep learning.
 
 ---
 
-## 🚧 What you'll find here
+## 🧪 Tech Hobbies
 
-🧪 **Backend Lab**  
-APIs, authentication, integrations and back-end experiments.
-
-🗄️ **MySQL Lab**  
-SQL, relational modeling, queries, indexes and database studies.
-
-🐍 **Python Lab**  
-Python projects, automation and experiments.
-
-🐘 **Laravel Lab**  
-PHP and Laravel applications.
-
-🐧 **Ubuntu Lab**  
-Linux configurations, scripts, development environments and experiments.
-
-👁️ **Computer Vision Lab**  
-Experiments with OpenCV, image processing, AI and Computer Vision.
-
----
-
-## 🌐 Across the Stack
-
-Back-end is where I feel most at home, but I also like understanding the application as a whole.
-
-When needed, I work with:
-
-`HTML` · `CSS` · `JavaScript` · `React`
-
-Enough to take an idea from the database and API all the way to the browser.
-
----
-
-## 🔬 What I'm interested in
-
-`Backend Development` · `REST APIs` · `Databases` · `SQL` · `System Integration`
-
-`Python` · `PHP` · `Docker` · `Linux` · `Open Source`
+Outside my main stack, I enjoy studying and experimenting with:
 
 `Artificial Intelligence` · `Computer Vision`
+
+These are areas I explore out of curiosity and because I genuinely enjoy learning how they work.
 
 ---
 
