@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🧪 Alexandre Bonnamain | Systems Lab
+# 🧪 Bonnamain Systems Lab
 
-**GNU/Linux · FreeBSD · Networking · Hardening**
-
-Configurations, automation, and troubleshooting.
+**Networking · GNU/Linux · FreeBSD · Hardening**
 
 ![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
@@ -17,9 +15,11 @@ Configurations, automation, and troubleshooting.
 
 Hi, I'm Alexandre Bonnamain.
 
-I have over 20 years of experience in IT, focusing on UNIX and GNU/Linux systems. I work with RHEL and compatible distributions, FreeBSD, networking, and system hardening. I automate what I can with Python and Bash.
+I'm a computer networking specialist with over 20 years of experience in IT, working mostly on UNIX and GNU/Linux systems. I work with RHEL and compatible distributions, FreeBSD, and system hardening. I automate what I can with Python and Bash.
 
-This GitHub is my lab. I'm collecting configurations, scripts, and troubleshooting notes for GNU/Linux and FreeBSD. I want to document how I reached each result, including failed attempts and configurations I had to revisit.
+This GitHub is my lab. I'm collecting configurations, scripts, and troubleshooting notes for networking, GNU/Linux, and FreeBSD. I want to document how I reached each result, including failed attempts and configurations I had to revisit.
+
+My networking labs will cover routing, BGP, switching, VLANs, DNS, firewalls, and VPNs.
 
 I use AI to help research technical references and refine documentation. I'm responsible for what I publish.
 
@@ -44,4 +44,4 @@ One sentence on the problem investigated and what the repository contains.
 
 > What worries me isn't the advancement of artificial intelligence, but the decline of natural human intelligence.
 >
-> Original author unknown. Adapted from Portuguese.
+> Original author unknown.
