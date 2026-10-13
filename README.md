@@ -1,60 +1,47 @@
-# Hi, I'm Alexandre Bonnamain 👋
+<div align="center">
 
-**Back-end Developer** · Python · Django · PHP · Laravel · MySQL
+# 🧪 Alexandre Bonnamain | Systems Lab
 
-I build the part of the application you don't see: APIs, databases, integrations and the logic that connects them. I like understanding the whole path, from the query to the browser, and I'm happiest when designing a database schema.
+**GNU/Linux · FreeBSD · Networking · Hardening**
 
-Based in Porto Alegre, Brazil 🇧🇷
+Configurations, automation, and troubleshooting.
 
----
+![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## What I work with
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,mysql,docker,git,linux,ubuntu,js,react,html,css" />
-</p>
-
-- **Back-end:** Python, Django, PHP, Laravel, REST APIs
-- **Databases:** MySQL, modeling, queries, backups
-- **Environment:** Ubuntu, Docker, Git
-- **Front-end (when needed):** HTML, CSS, JavaScript, React
+</div>
 
 ---
 
-## Projects
+Hi, I'm Alexandre Bonnamain.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Project name**](link) | One line: the problem it solves | Django · MySQL · Docker |
-| [**Project name**](link) | One line: the problem it solves | Laravel · MySQL |
-| [**Project name**](link) | One line: the problem it solves | Python · REST API |
+I have over 20 years of experience in IT, focusing on UNIX and GNU/Linux systems. I work with RHEL and compatible distributions, FreeBSD, networking, and system hardening. I automate what I can with Python and Bash.
 
----
+This GitHub is my lab. I'm collecting configurations, scripts, and troubleshooting notes for GNU/Linux and FreeBSD. I want to document how I reached each result, including failed attempts and configurations I had to revisit.
 
-## Experience that shaped me
+I use AI to help research technical references and refine documentation. I'm responsible for what I publish.
 
-For 7+ years I ran the web infrastructure of a restaurant business: an e-commerce built from scratch and integrated with iFood, Goomer and WhatsApp, a MySQL database, hosting, SSL, backups, and a WhatsApp chatbot that answered menu and hours questions automatically. Real users, real orders, real consequences when something broke. That's where I learned to care about reliability.
+<!--
+## 🗃️ Selected Projects
 
-I've also taught Python, SQL, PHP and web development, which taught me to explain things clearly.
-
----
-
-## Currently
-
-- Deepening Django and Laravel, with focus on APIs, architecture and tests
-- Studying Systems Analysis and Development
-- Always creating databases for fun
+### [PROJECT TITLE](PROJECT_URL)
+One sentence on the problem investigated and what the repository contains.
+-->
 
 ---
 
-> "What concerns me is not the evolution of artificial intelligence, but the devolution of natural human intelligence."
+<div align="center">
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre_Bonnamain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-bonnamain-8a7a213a4/)
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><strong>Back-end first. Always curious.</strong></p>
+> What worries me isn't the advancement of artificial intelligence, but the decline of natural human intelligence.
+>
+> Original author unknown. Adapted from Portuguese.
