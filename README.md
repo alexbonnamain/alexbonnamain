@@ -2,89 +2,107 @@
 
 # 🧪 Bonnamain Systems Lab
 
-**UNIX / LINUX · NETWORK ENGINEERING · RED & BLUE TEAM**
+**LINUX SYSADMIN · NETWORKING · AUTOMATION**
+
+**Exploring DevOps, SRE & Cloud Infrastructure**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-1769AA?style=flat-square)
-![Red Team](https://img.shields.io/badge/Red_Team-B22222?style=flat-square)
-![Blue Team](https://img.shields.io/badge/Blue_Team-1769AA?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-`BUILD` → `TEST` → `OBSERVE` → `DOCUMENT`
+`BUILD` → `TEST` → `TROUBLESHOOT` → `DOCUMENT`
 
 </div>
 
 ---
 
-## Welcome to My Lab
+## About the Lab
 
-This is my personal technology laboratory, dedicated to the systems I know well, the technologies I'm passionate about, and the things I enjoy exploring.
+A personal technology laboratory focused on Linux system administration,
+networking, and infrastructure automation, with exploration of DevOps,
+SRE, and cloud practices.
 
-Linux, UNIX, networking, and information security have been part of my life for years. Here, I experiment with systems, investigate how things work, test configurations, and document what I discover.
+Linux, UNIX, and security form the foundation. Python and Shell scripting
+connect the pieces: automating tasks, building tools, and making
+administrative procedures repeatable.
 
-☕ **Powered by coffee, curiosity, and a genuine passion for technology.**
+This is a space to build environments, investigate failures, test
+configurations, and document what actually happens. AI supports research,
+scripting, and troubleshooting, with suggestions reviewed and tested
+in the lab.
+
+☕ **Powered by coffee, curiosity, and a passion for understanding how systems work.**
 
 ---
 
 ## 🔬 Lab Workbenches
 
-| Workbench | Areas of Exploration |
+| Workbench | Focus |
 |---|---|
-| 🐧 **Linux Systems** | RHEL, AlmaLinux, system administration, storage, services |
-| 😈 **FreeBSD** | UNIX internals, networking, jails, administration |
-| 🌐 **Networking** | TCP/IP, routing, BGP, VLANs, DNS, firewalls, VPNs |
-| 🔴 **Red Team** | Pentesting, enumeration, vulnerability assessment, controlled exploitation |
-| 🔵 **Blue Team** | Hardening, auditing, logging, monitoring, threat detection |
-| ⚙️ **Automation** | Bash, Python, scripting, infrastructure automation |
+| 🐧 **Linux Administration** | RHEL-family systems, users, permissions, storage, services, and logs |
+| 🌐 **Networking** | TCP/IP, VLANs, DNS, connectivity, and troubleshooting |
+| ⚙️ **Python & Shell Scripting** | Scripts for system administration, diagnostics, and task automation |
+| 📦 **Containers & Virtualization** | Docker, VirtualBox, and isolated test environments |
+| 🛡️ **System Security** | Hardening, updates, access controls, and log analysis |
+| 😈 **FreeBSD / UNIX** | System administration and comparisons with Linux |
+| ☁️ **Cloud Infrastructure** | Exploring provisioning, infrastructure as code, and deployment automation |
+| 📊 **Reliability & Operations** | Exploring monitoring, observability, incident investigation, and service recovery |
 
 ---
+
+## 📝 Lab Notes
+
+Published experiments will document the environment, configurations,
+commands, troubleshooting steps, and evidence from actual tests.
+
+Each project will identify its scope and status, distinguishing planned
+work from tested results. Failed tests and unexpected behavior belong
+in the documentation, too.
 
 <!--
+Keep this section hidden until repositories are available.
+Replace placeholders and verify each project's status before publishing.
+Workbench topics describe the lab's scope, not completed projects.
 
-## 🧪 Active Experiments
+## 🧪 Experiments
 
 ### LAB-001 · Linux System Hardening
-Environment: AlmaLinux / VirtualBox
-Repository: TBD
-Status: In progress
 
-### LAB-002 · FreeBSD Systems
-Repository: TBD
-Status: Planned
+- Environment: AlmaLinux / VirtualBox
+- Repository: Add repository URL
+- Status: Update before publishing
 
-### LAB-003 · Red Team / Blue Team
-Repository: TBD
-Status: Planned
+### LAB-002 · Linux Administration Scripts
 
----
+- Environment: Bash / Python
+- Repository: Add repository URL
+- Status: Planned
 
-## 📂 Inside the Lab
+### LAB-003 · Containerized Services
 
-Each published experiment is intended to be a technical record, not just a collection of commands.
-
-Typical experiment structure:
-
-    LAB-XXX/
-    ├── README.md
-    ├── topology/
-    ├── configurations/
-    ├── scripts/
-    ├── tests/
-    ├── logs/
-    └── evidence/
-
-The goal is to document what was built, what was tested, what actually happened, and what can be learned from it.
-
-Failed experiments and unexpected results are part of the lab, too.
-
+- Environment: Docker
+- Repository: Add repository URL
+- Status: Planned
 -->
 
-## 💭 A Thought Worth Keeping
+---
 
-> ### "What worries me isn't the advancement of artificial intelligence, but the decline of natural human intelligence."
+```console
+bonnamain@systems-lab:~$ cat thought.txt
 
-**— Original author unknown**
+"What worries me isn't the advancement of artificial intelligence,
+but the decline of natural human intelligence."
+
+— Original author unknown
+
+bonnamain@systems-lab:~$
+```
 
 ---
+
+## 📫 Contact
+
+**LinkedIn:** [Alexandre Bonnamain](https://www.linkedin.com/in/alexandre-bonnamain/)
