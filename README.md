@@ -42,14 +42,14 @@ in the lab.
 
 | Workbench | Focus |
 |---|---|
-| 🐧 **Linux Administration** | RHEL-family systems, users, permissions, storage, services, and logs |
-| 🌐 **Networking** | TCP/IP, VLANs, DNS, connectivity, and troubleshooting |
-| ⚙️ **Python & Shell Scripting** | Scripts for system administration, diagnostics, and task automation |
-| 📦 **Containers & Virtualization** | Docker, VirtualBox, and isolated test environments |
-| 🛡️ **Cybersecurity** | Linux hardening, access controls, security auditing, and lab-based vulnerability assessment  |
-| 😈 **FreeBSD / UNIX** | System administration and comparisons with Linux |
-| ☁️ **Cloud Infrastructure** | Exploring provisioning, infrastructure as code, and deployment automation |
-| 📊 **Reliability & Operations** | Exploring monitoring, observability, incident investigation, and service recovery |
+| 🐧 **Linux Administration** | Linux system administration across RHEL, AlmaLinux, Debian, and Ubuntu Server: users, groups, permissions, storage, services, SSH, and logs |
+| 🌐 **Networking** | TCP/IP, Cisco switches, VLANs, DNS, LAN/Wi-Fi connectivity, and network troubleshooting |
+| ⚙️ **Python & Shell Scripting** | Python and Bash scripting for system administration, infrastructure automation, diagnostics, and maintenance |
+| 📦 **Containers & Virtualization** | Docker containers, VMware and VirtualBox virtual machines, and reproducible lab environments with Vagrant |
+| 🛡️ **Cybersecurity** | Linux hardening, access controls, security updates, log analysis, security auditing, and vulnerability assessment in lab environments |
+| 😈 **FreeBSD / UNIX** | FreeBSD and UNIX administration, users, permissions, services, networking, and comparisons with Linux |
+| ☁️ **Cloud Infrastructure** | Exploring cloud infrastructure, provisioning, Infrastructure as Code (IaC), and deployment automation |
+| 📊 **Reliability & Operations** | Exploring service monitoring, observability, incident troubleshooting, backup and recovery, and Site Reliability Engineering (SRE) practices |
 
 ---
 
