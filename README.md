@@ -46,7 +46,7 @@ in the lab.
 | 🌐 **Networking** | TCP/IP, VLANs, DNS, connectivity, and troubleshooting |
 | ⚙️ **Python & Shell Scripting** | Scripts for system administration, diagnostics, and task automation |
 | 📦 **Containers & Virtualization** | Docker, VirtualBox, and isolated test environments |
-| 🛡️ **System Security** | Hardening, updates, access controls, and log analysis |
+| 🛡️ **Cybersecurity** | Linux hardening, access controls, security auditing, and lab-based vulnerability assessment  |
 | 😈 **FreeBSD / UNIX** | System administration and comparisons with Linux |
 | ☁️ **Cloud Infrastructure** | Exploring provisioning, infrastructure as code, and deployment automation |
 | 📊 **Reliability & Operations** | Exploring monitoring, observability, incident investigation, and service recovery |
@@ -91,14 +91,14 @@ Workbench topics describe the lab's scope, not completed projects.
 ---
 
 ```console
-bonnamain@systems-lab:~$ cat thought.txt
+bonnamain@systems-lab:~$ cat ~/lab/notes/thought.txt
 
 "What worries me isn't the advancement of artificial intelligence,
 but the decline of natural human intelligence."
 
-— Original author unknown
+    — Original author unknown
 
-bonnamain@systems-lab:~$
+bonnamain@systems-lab:~$ █
 ```
 
 ---
