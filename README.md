@@ -1,19 +1,21 @@
+
 <div align="center">
 
 # 🧪 Bonnamain Systems Lab
 
-**LINUX SYSADMIN · NETWORKING · AUTOMATION**
+**BACKEND DEVELOPMENT · DATABASES · SOFTWARE ENGINEERING**
 
-**Exploring DevOps, SRE & Cloud Infrastructure**
+*Exploring APIs, Backend Architecture & Application Development*
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1769AA?style=flat-square)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-`BUILD` → `TEST` → `TROUBLESHOOT` → `DOCUMENT`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+`DESIGN` → `BUILD` → `TEST` → `DOCUMENT`
 
 </div>
 
@@ -21,20 +23,24 @@
 
 ## About the Lab
 
-A personal technology laboratory focused on Linux system administration,
-networking, and infrastructure automation, with exploration of DevOps,
-SRE, and cloud practices.
+A personal technology laboratory focused on backend development,
+programming languages, relational databases, and software engineering.
 
-Linux, UNIX, and security form the foundation. Python and Shell scripting
-connect the pieces: automating tasks, building tools, and making
-administrative procedures repeatable.
+PHP, Java, and Python are the main languages of interest, with
+PostgreSQL and MySQL at the core of database exploration.
 
-This is a space to build environments, investigate failures, test
-configurations, and document what actually happens. AI supports research,
-scripting, and troubleshooting, with suggestions reviewed and tested
-in the lab.
+This is a space to develop applications, experiment with APIs,
+explore backend architectures, test implementations, and document
+how different technologies work together.
 
-☕ **Powered by coffee, curiosity, and a passion for understanding how systems work.**
+The lab emphasizes clean code, database design, application security,
+testing, and maintainable software. Linux and Docker provide
+the foundation for development and reproducible environments.
+
+AI supports research, programming, debugging, and learning, with
+suggestions reviewed, understood, and tested in the lab.
+
+☕ **Powered by coffee, curiosity, and a genuine passion for technology.**
 
 ---
 
@@ -42,25 +48,30 @@ in the lab.
 
 | Workbench | Focus |
 |---|---|
-| 🐧 **Linux Administration** | Linux system administration across RHEL, AlmaLinux, Debian, and Ubuntu Server: users, groups, permissions, storage, services, SSH, and logs |
-| 🌐 **Networking** | TCP/IP, Cisco switches, VLANs, DNS, LAN/Wi-Fi connectivity, and network troubleshooting |
-| ⚙️ **Python & Shell Scripting** | Python and Bash scripting for system administration, infrastructure automation, diagnostics, and maintenance |
-| 📦 **Containers & Virtualization** | Docker containers, VMware and VirtualBox virtual machines, and reproducible lab environments with Vagrant |
-| 🛡️ **Cybersecurity** | Linux hardening, access controls, security updates, log analysis, security auditing, and vulnerability assessment in lab environments |
-| 😈 **FreeBSD / UNIX** | FreeBSD and UNIX administration, users, permissions, services, networking, and comparisons with Linux |
-| ☁️ **Cloud Infrastructure** | Exploring cloud infrastructure, provisioning, Infrastructure as Code (IaC), and deployment automation |
-| 📊 **Reliability & Operations** | Exploring service monitoring, observability, incident troubleshooting, backup and recovery, and Site Reliability Engineering (SRE) practices |
+| 🐘 **PHP Development** | PHP programming, object-oriented development, application logic, database integration, and exploration of Laravel and Symfony |
+| ☕ **Java Development** | Exploring Java, object-oriented programming, collections, application architecture, and backend development with Spring Boot |
+| 🐍 **Python Development** | Python programming, automation, data processing, backend applications, and exploration of FastAPI |
+| 🐘 **PostgreSQL** | Relational database design, SQL queries, joins, constraints, transactions, indexes, and query optimization |
+| 🐬 **MySQL** | Database administration, relational modeling, SQL queries, data integrity, backups, and application integration |
+| 🔗 **APIs & Backend Architecture** | RESTful APIs, HTTP, JSON, authentication, authorization, application architecture, and service integration |
+| 🧪 **Software Testing & Quality** | Unit testing, integration testing, debugging, code organization, maintainability, and software engineering practices |
+| 📦 **Development Environments** | Git, Docker, Linux, application configuration, containerized services, and reproducible development environments |
+| 🛡️ **Application Security** | Secure coding, input validation, access control, password hashing, dependency security, and common web vulnerabilities |
 
 ---
 
 ## 📝 Lab Notes
 
-Published experiments will document the environment, configurations,
-commands, troubleshooting steps, and evidence from actual tests.
+Published experiments document application architecture, source code,
+database schemas, configurations, testing procedures, debugging steps,
+and lessons learned.
 
-Each project will identify its scope and status, distinguishing planned
-work from tested results. Failed tests and unexpected behavior belong
-in the documentation, too.
+Each project identifies its scope and status, distinguishing planned
+work from tested implementations.
+
+The goal is to understand not only how to write code, but also how
+applications behave, interact with databases, handle errors, and
+evolve over time.
 
 <!--
 Keep this section hidden until repositories are available.
@@ -69,37 +80,41 @@ Workbench topics describe the lab's scope, not completed projects.
 
 ## 🧪 Experiments
 
-### LAB-001 · Linux System Hardening
+### LAB-001 · PHP REST API
 
-- Environment: AlmaLinux / VirtualBox
-- Repository: Add repository URL
-- Status: Update before publishing
-
-### LAB-002 · Linux Administration Scripts
-
-- Environment: Bash / Python
+- Stack: PHP / PostgreSQL / Docker
 - Repository: Add repository URL
 - Status: Planned
 
-### LAB-003 · Containerized Services
+### LAB-002 · Java Backend Application
 
-- Environment: Docker
+- Stack: Java / Spring Boot / PostgreSQL
+- Repository: Add repository URL
+- Status: Planned
+
+### LAB-003 · Python API Development
+
+- Stack: Python / FastAPI / PostgreSQL
+- Repository: Add repository URL
+- Status: Planned
+
+### LAB-004 · Database Design & SQL
+
+- Stack: PostgreSQL / MySQL
 - Repository: Add repository URL
 - Status: Planned
 -->
 
 ---
 
-```console
-bonnamain@systems-lab:~$ cat ~/lab/notes/thought.txt
+<div align="center">
 
-"What worries me isn't the advancement of artificial intelligence,
-but the decline of natural human intelligence."
+**"What worries me isn't the advancement of artificial intelligence,**  
+**but the decline of natural human intelligence."**
 
-    — Original author unknown
+*— Original author unknown*
 
-bonnamain@systems-lab:~$ █
-```
+</div>
 
 ---
 
