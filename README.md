@@ -1,21 +1,24 @@
 
 <div align="center">
 
-# 🧪 Backend Lab
+# 🧪 Bonnamain Security Lab
 
-**BACKEND DEVELOPMENT · DATABASES · SOFTWARE ENGINEERING**
+**LINUX & FREEBSD · SYSTEM SECURITY · AUTOMATION**
 
-*Exploring Python, PHP, APIs & Backend Architecture*
+*Learning Defensive Security, Malware Analysis & Reverse Engineering*
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_x86--64-525252?style=for-the-badge)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-`DESIGN` → `BUILD` → `TEST` → `DOCUMENT`
+`BUILD` → `SECURE` → `ANALYZE` → `TEST` → `DOCUMENT`
 
 </div>
 
@@ -23,29 +26,39 @@
 
 ## About the Lab
 
-A personal programming laboratory focused on backend development,
-relational databases, and software engineering.
+A personal technology laboratory focused on Linux and FreeBSD
+system administration, system security, and automation.
 
-Python is the primary language of exploration, with PHP as a
-complementary backend language and TypeScript and JavaScript
-supporting web application development.
+Debian GNU/Linux is the primary Linux environment, complemented
+by Red Hat-based distributions and FreeBSD for exploring
+different UNIX-like systems, security models, and administration
+practices.
 
-The lab explores backend applications, RESTful APIs, database
-integration, software architecture, and application security,
-with PostgreSQL and MySQL as relational database technologies.
+The lab covers system configuration, service management,
+access controls, security hardening, auditing, networking,
+and troubleshooting across Linux and FreeBSD environments.
 
-FastAPI, Django, Laravel, and Symfony are frameworks of interest,
-with emphasis on understanding their architecture, capabilities,
-and practical applications.
+Python and Shell scripting support system administration,
+security automation, log processing, diagnostics, and
+the development of command-line tools.
 
-This is a space to experiment with programming concepts,
-develop applications, investigate problems, test solutions,
-and document technical discoveries.
+FreeBSD is an important part of the laboratory, with particular
+interest in system administration, networking, the PF firewall,
+jails, ZFS, and UNIX security concepts.
 
-AI supports research, programming, debugging, and learning,
-with suggestions reviewed, understood, and tested in the lab.
+Malware analysis and reverse engineering are areas of ongoing
+learning, with an initial focus on static analysis, ELF
+executables, file inspection, Assembly x86-64 fundamentals,
+and understanding compiled program behavior.
 
-☕ **Powered by coffee, curiosity, and a genuine passion for programming.**
+The laboratory also explores defensive security, event
+investigation, traffic inspection, and threat detection
+fundamentals.
+
+Experiments use controlled environments, synthetic data,
+self-developed programs, and authorized educational resources.
+
+☕ **Powered by coffee, curiosity, and a genuine passion for technology.**
 
 ---
 
@@ -53,71 +66,208 @@ with suggestions reviewed, understood, and tested in the lab.
 
 | Workbench | Focus |
 |---|---|
-| 🐍 **Python Development** | Python programming, object-oriented design, type hints, data structures, automation, application logic, and backend development |
-| ⚡ **Python Backend Frameworks** | Exploring FastAPI and Django, RESTful APIs, request validation, dependency injection, and database integration |
-| 🐘 **PHP Development** | PHP programming, object-oriented development, Composer, application logic, database integration, and exploration of Laravel and Symfony |
-| 🐘 **PostgreSQL** | Relational database design, SQL queries, joins, constraints, transactions, indexing, and query optimization |
-| 🐬 **MySQL** | Relational modeling, SQL queries, data integrity, database administration, backups, and application integration |
-| 🔗 **APIs & Backend Architecture** | HTTP, JSON, REST API design, authentication, authorization, error handling, and application architecture |
-| 🧪 **Testing & Code Quality** | Unit testing, integration testing, debugging, clean code, SOLID principles, and maintainable software |
-| 🌐 **Web Technologies** | TypeScript, JavaScript, HTML5, and CSS3 as complementary technologies for web applications and frontend integration |
-| 📦 **Development Tools** | Git, GitHub, Docker, dependency management, application configuration, and reproducible development environments |
-| 🛡️ **Application Security** | Secure coding, input validation, password hashing, access control, dependency security, and common web vulnerabilities |
+| 🐧 **Linux Administration** | Debian, RHEL, AlmaLinux, systemd, services, permissions, SSH, package management, storage, and troubleshooting |
+| 😈 **FreeBSD / UNIX** | FreeBSD administration, users, permissions, services, networking, PF firewall, jails, ZFS, and UNIX security practices |
+| 🛡️ **System Security & Hardening** | Linux and FreeBSD security, access controls, SSH hardening, SELinux fundamentals, AppArmor, firewall policies, auditing, and security configuration reviews |
+| 🐍 **Python & Shell Scripting** | Python and Bash for automation, log processing, security checks, system diagnostics, Docker-based lab environments, and command-line utilities |
+| 🌐 **Networking & Defensive Security** | TCP/IP, DNS, tcpdump, Wireshark, traffic inspection, log investigation, monitoring, and threat detection fundamentals |
+| 🦠 **Malware Analysis & Reverse Engineering — Learning** | Static file inspection, hashes, strings, ELF structure, YARA fundamentals, Assembly x86-64, and introductory binary analysis |
+
+---
+
+## 🤖 AI Usage
+
+AI tools assist with research, scripting, and debugging.
+Suggestions are reviewed, understood, and validated through
+testing.
+
+Projects document AI-assisted work, including limitations
+and incorrect suggestions when relevant.
+
+AI usage follows confidentiality, data protection, and
+responsible security practices.
 
 ---
 
 ## 📝 Lab Notes
 
-Published experiments document programming concepts,
-application architecture, source code, database schemas,
-configurations, testing procedures, debugging steps,
+Published experiments document objectives, environments,
+configurations, scripts, commands, observations, test results,
 and lessons learned.
 
-Each project identifies its scope and status, distinguishing
-planned work from tested implementations.
+Each project clearly identifies its scope, dependencies,
+limitations, and status, distinguishing planned activities
+from completed and validated experiments.
 
-The goal is to understand not only how to write code,
-but also how applications behave, interact with databases,
-handle failures, and evolve over time.
+The laboratory emphasizes technical accuracy,
+reproducibility, responsible experimentation,
+and evidence-based investigation.
+
+Unexpected behavior, failed tests, false positives,
+and alternative hypotheses are part of the learning
+process and belong in the documentation.
+
+No confidential information, production credentials,
+unauthorized data, or sensitive third-party materials
+are published.
+
+---
 
 <!--
-Keep this section hidden until repositories are available.
-Replace placeholders and verify each project's status before publishing.
+EXPERIMENTS - INTERNAL PLANNING
+
+This section is intentionally hidden from the rendered README.
+Keep planned experiments hidden until their repositories
+are available and results have been verified.
+
+Replace repository placeholders with actual URLs.
+Do not present planned work as completed experiments.
 
 ## 🧪 Experiments
 
-### LAB-001 · Python REST API
+### LAB-001 - Debian Persistence Zoo
 
-- Stack: Python / FastAPI / PostgreSQL
-- Repository: Add repository URL
-- Status: Planned
+Environment:
+- Disposable Debian virtual machine
 
-### LAB-002 · PHP Backend Application
+Stack:
+- Python
+- Bash
+- systemd
 
-- Stack: PHP / PostgreSQL / Docker
-- Repository: Add repository URL
-- Status: Planned
+Focus:
+- Benign Linux persistence simulations
+- Detection coverage
+- False positives and false negatives
+- Security event investigation
 
-### LAB-003 · API Authentication & Security
+Techniques:
+- Scheduled tasks
+- Service configurations
+- User startup mechanisms
 
-- Stack: Python / FastAPI / PostgreSQL
-- Repository: Add repository URL
-- Status: Planned
+Detection:
+- Python-based inspection and reporting
 
-### LAB-004 · Database Design & SQL
+Reference:
+- MITRE ATT&CK for Linux
 
-- Stack: PostgreSQL / MySQL
-- Repository: Add repository URL
-- Status: Planned
+Deliverables:
+- Reproducible benign test scenarios
+- Reversible laboratory setup and cleanup
+- Persistence detection tool
+- Detection coverage matrix
+- Automated tests
+- Technical documentation
 
-### LAB-005 · Backend Testing & Integration
+Safety:
+- No malicious payloads
+- Disposable and authorized environments only
 
-- Stack: Python / Pytest / Docker
-- Repository: Add repository URL
-- Status: Planned
+Repository:
+- Add repository URL
+
+Status:
+- Planned
+
+### LAB-002 - FreeBSD Containment Range
+
+Environment:
+- Dedicated FreeBSD laboratory
+
+Stack:
+- FreeBSD
+- ZFS
+- PF
+- bhyve
+- Python
+
+Focus:
+- Network isolation
+- Containment validation
+- Traffic monitoring
+- Reproducible security experiments
+
+Techniques:
+- ZFS snapshots
+- Virtual machines
+- Firewall policies
+- Controlled traffic generation
+
+Detection:
+- Analysis of synthetic network activity
+- Periodic communication pattern detection
+
+Deliverables:
+- Documented laboratory architecture
+- Network isolation configuration
+- Snapshot and rollback procedures
+- Egress filtering validation tests
+- Traffic analysis reports
+- Detection results
+- Threat model and documented limitations
+
+Safety:
+- Benign programs and synthetic traffic only
+- No assumption of absolute isolation security
+
+Repository:
+- Add repository URL
+
+Status:
+- Planned
+
+### LAB-003 - Binary Provenance Lab
+
+Environment:
+- Debian GNU/Linux
+
+Stack:
+- C
+- Python
+- GCC
+- Clang
+- pyelftools
+- Assembly x86-64
+
+Focus:
+- ELF inspection
+- Compiler characteristics
+- Binary analysis
+- Assembly fundamentals
+
+Techniques:
+- Compilation variants
+- Symbol inspection
+- Executable metadata
+- Disassembly
+- Comparison of build configurations
+
+Detection:
+- Experimental classification of compiler
+  characteristics and build configurations
+
+Deliverables:
+- Reproducible compilation corpus
+- Python ELF inspection tool
+- Experimental binary classification tool
+- Build configuration comparison matrix
+- Documented classification errors
+- Automated tests
+- Technical reports
+
+Safety:
+- Self-developed benign executables only
+- No real malware samples required
+
+Repository:
+- Add repository URL
+
+Status:
+- Planned
+
+END OF INTERNAL PLANNING
 -->
-
----
 
 <div align="center">
 
