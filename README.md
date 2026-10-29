@@ -3,19 +3,19 @@
 
 # 🧪 Bonnamain Systems Lab
 
-**BACKEND DEVELOPMENT · DATABASES · SOFTWARE ENGINEERING**
+**JAVA PROGRAMMING · BACKEND DEVELOPMENT · SOFTWARE ENGINEERING**
 
-*Exploring APIs, Backend Architecture & Application Development*
+*Exploring Java, Spring Boot & Backend Architecture*
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-`DESIGN` → `BUILD` → `TEST` → `DOCUMENT`
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+`DESIGN` → `CODE` → `TEST` → `DOCUMENT`
 
 </div>
 
@@ -23,24 +23,29 @@
 
 ## About the Lab
 
-A personal technology laboratory focused on backend development,
-programming languages, relational databases, and software engineering.
+A personal programming laboratory dedicated to Java development,
+the Spring ecosystem, and software engineering.
 
-PHP, Java, and Python are the main languages of interest, with
-PostgreSQL and MySQL at the core of database exploration.
+Java is the primary language of exploration, with a focus on
+object-oriented programming, backend applications, RESTful APIs,
+and software architecture.
 
-This is a space to develop applications, experiment with APIs,
-explore backend architectures, test implementations, and document
-how different technologies work together.
+Spring Boot and PostgreSQL are central to the development of
+backend applications, while Maven, Git, and Docker support
+dependency management, version control, and reproducible
+development environments.
 
-The lab emphasizes clean code, database design, application security,
-testing, and maintainable software. Linux and Docker provide
-the foundation for development and reproducible environments.
+The lab is a space to experiment with programming concepts,
+implement solutions, investigate application behavior, and
+develop clean, secure, and maintainable code.
 
-AI supports research, programming, debugging, and learning, with
-suggestions reviewed, understood, and tested in the lab.
+PHP, Python, and MySQL remain part of the programming background,
+while Java is the main focus of ongoing learning and development.
 
-☕ **Powered by coffee, curiosity, and a genuine passion for technology.**
+AI supports research, programming, debugging, and learning,
+with suggestions reviewed, understood, and tested in the lab.
+
+☕ **Powered by coffee, curiosity, and a genuine passion for programming.**
 
 ---
 
@@ -48,59 +53,59 @@ suggestions reviewed, understood, and tested in the lab.
 
 | Workbench | Focus |
 |---|---|
-| 🐘 **PHP Development** | PHP programming, object-oriented development, application logic, database integration, and exploration of Laravel and Symfony |
-| ☕ **Java Development** | Exploring Java, object-oriented programming, collections, application architecture, and backend development with Spring Boot |
-| 🐍 **Python Development** | Python programming, automation, data processing, backend applications, and exploration of FastAPI |
-| 🐘 **PostgreSQL** | Relational database design, SQL queries, joins, constraints, transactions, indexes, and query optimization |
-| 🐬 **MySQL** | Database administration, relational modeling, SQL queries, data integrity, backups, and application integration |
-| 🔗 **APIs & Backend Architecture** | RESTful APIs, HTTP, JSON, authentication, authorization, application architecture, and service integration |
-| 🧪 **Software Testing & Quality** | Unit testing, integration testing, debugging, code organization, maintainability, and software engineering practices |
-| 📦 **Development Environments** | Git, Docker, Linux, application configuration, containerized services, and reproducible development environments |
-| 🛡️ **Application Security** | Secure coding, input validation, access control, password hashing, dependency security, and common web vulnerabilities |
+| ☕ **Java Programming** | Java fundamentals, object-oriented programming, collections, generics, exceptions, streams, concurrency, and modern Java features |
+| 🍃 **Spring Ecosystem** | Exploring Spring Boot, Spring Web, Spring Data JPA, Spring Security, dependency injection, and RESTful application development |
+| 🐘 **PostgreSQL & SQL** | Relational database modeling, SQL queries, joins, constraints, transactions, indexes, and query optimization |
+| 🔗 **REST APIs** | HTTP, JSON, endpoint design, request validation, authentication, authorization, error handling, and API documentation |
+| 🏗️ **Software Engineering** | Clean code, SOLID principles, design patterns, layered architecture, separation of concerns, and maintainable software |
+| 🧪 **Testing & Debugging** | Exploring JUnit, Mockito, unit testing, integration testing, debugging, and code quality practices |
+| 📦 **Development Tools** | Apache Maven, Git, Docker, dependency management, version control, and reproducible development environments |
+| 🛡️ **Application Security** | Secure coding, input validation, access control, password hashing, dependency security, and common application vulnerabilities |
+| ⚙️ **Additional Languages** | PHP and Python as complementary programming languages, with MySQL as additional database experience |
 
 ---
 
 ## 📝 Lab Notes
 
-Published experiments document application architecture, source code,
-database schemas, configurations, testing procedures, debugging steps,
+Published experiments document programming concepts,
+application architecture, source code, database schemas,
+configurations, testing procedures, debugging steps,
 and lessons learned.
 
-Each project identifies its scope and status, distinguishing planned
-work from tested implementations.
+Each project identifies its scope and status, distinguishing
+planned work from tested implementations.
 
-The goal is to understand not only how to write code, but also how
-applications behave, interact with databases, handle errors, and
-evolve over time.
+The goal is to understand not only how to write Java code,
+but also how applications behave, interact with databases,
+handle errors, and evolve over time.
 
 <!--
 Keep this section hidden until repositories are available.
 Replace placeholders and verify each project's status before publishing.
-Workbench topics describe the lab's scope, not completed projects.
 
 ## 🧪 Experiments
 
-### LAB-001 · PHP REST API
+### LAB-001 · Java Fundamentals
 
-- Stack: PHP / PostgreSQL / Docker
+- Stack: Java / Maven / JUnit
 - Repository: Add repository URL
 - Status: Planned
 
-### LAB-002 · Java Backend Application
+### LAB-002 · REST API with Spring Boot
 
 - Stack: Java / Spring Boot / PostgreSQL
 - Repository: Add repository URL
 - Status: Planned
 
-### LAB-003 · Python API Development
+### LAB-003 · Secure Backend Application
 
-- Stack: Python / FastAPI / PostgreSQL
+- Stack: Java / Spring Security / PostgreSQL / Docker
 - Repository: Add repository URL
 - Status: Planned
 
-### LAB-004 · Database Design & SQL
+### LAB-004 · Backend Testing & Integration
 
-- Stack: PostgreSQL / MySQL
+- Stack: Java / Spring Boot / JUnit / Mockito
 - Repository: Add repository URL
 - Status: Planned
 -->
