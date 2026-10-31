@@ -1,13 +1,13 @@
-
 <div align="center">
 
-# 🧪 Bonnamain Security Lab
+# 🛡️ Bonnamain Blue Team Lab 🧪 
 
-**LINUX & FREEBSD · SYSTEM SECURITY · AUTOMATION**
+**LINUX & FREEBSD · BLUE TEAM · THREAT HUNTING**
 
-*Learning Defensive Security, Malware Analysis & Reverse Engineering*
+*Defensive Security · Detection Engineering · Incident Response · Malware Analysis*
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 
@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-`BUILD` → `SECURE` → `ANALYZE` → `TEST` → `DOCUMENT`
+`EXPLORE` → `INVESTIGATE` → `DETECT` → `DEFEND` → `DOCUMENT`
 
 </div>
 
@@ -26,37 +26,13 @@
 
 ## About the Lab
 
-A personal technology laboratory focused on Linux and FreeBSD
-system administration, system security, and automation.
+Bonnamain Blue Team Lab is a personal technology laboratory focused on defensive cybersecurity, with **Linux and FreeBSD as its permanent technical foundations**. Debian GNU/Linux is the primary Linux environment, complemented by Red Hat-based distributions and FreeBSD. System administration, networking, access controls, service management, auditing, and security hardening provide the foundation for understanding and defending UNIX-like systems.
 
-Debian GNU/Linux is the primary Linux environment, complemented
-by Red Hat-based distributions and FreeBSD for exploring
-different UNIX-like systems, security models, and administration
-practices.
+Threat hunting is a central area of focus, supported by hands-on laboratory work and experience teaching threat hunting topics. The laboratory explores detection engineering, security monitoring, incident investigation, threat intelligence, and security automation. Python and Bash support investigations, log processing, diagnostics, reporting, and the development of command-line tools.
 
-The lab covers system configuration, service management,
-access controls, security hardening, auditing, networking,
-and troubleshooting across Linux and FreeBSD environments.
+Malware analysis and reverse engineering are areas of ongoing learning, with an initial focus on static analysis, ELF executables, file inspection, Assembly x86-64 fundamentals, and compiled program behavior. FreeBSD remains an important part of the work, particularly its networking, PF firewall, jails, ZFS, and UNIX security concepts.
 
-Python and Shell scripting support system administration,
-security automation, log processing, diagnostics, and
-the development of command-line tools.
-
-FreeBSD is an important part of the laboratory, with particular
-interest in system administration, networking, the PF firewall,
-jails, ZFS, and UNIX security concepts.
-
-Malware analysis and reverse engineering are areas of ongoing
-learning, with an initial focus on static analysis, ELF
-executables, file inspection, Assembly x86-64 fundamentals,
-and understanding compiled program behavior.
-
-The laboratory also explores defensive security, event
-investigation, traffic inspection, and threat detection
-fundamentals.
-
-Experiments use controlled environments, synthetic data,
-self-developed programs, and authorized educational resources.
+Experiments use controlled environments, synthetic data, self-developed programs, and authorized educational resources. Windows and other platforms may be included when relevant to Blue Team investigations, without replacing the laboratory's Linux and FreeBSD focus.
 
 ☕ **Powered by coffee, curiosity, and a genuine passion for technology.**
 
@@ -68,48 +44,39 @@ self-developed programs, and authorized educational resources.
 |---|---|
 | 🐧 **Linux Administration** | Debian, RHEL, AlmaLinux, systemd, services, permissions, SSH, package management, storage, and troubleshooting |
 | 😈 **FreeBSD / UNIX** | FreeBSD administration, users, permissions, services, networking, PF firewall, jails, ZFS, and UNIX security practices |
-| 🛡️ **System Security & Hardening** | Linux and FreeBSD security, access controls, SSH hardening, SELinux fundamentals, AppArmor, firewall policies, auditing, and security configuration reviews |
-| 🐍 **Python & Shell Scripting** | Python and Bash for automation, log processing, security checks, system diagnostics, Docker-based lab environments, and command-line utilities |
-| 🌐 **Networking & Defensive Security** | TCP/IP, DNS, tcpdump, Wireshark, traffic inspection, log investigation, monitoring, and threat detection fundamentals |
-| 🦠 **Malware Analysis & Reverse Engineering — Learning** | Static file inspection, hashes, strings, ELF structure, YARA fundamentals, Assembly x86-64, and introductory binary analysis |
+| 🔎 **Threat Hunting & Detection Engineering** | Hypothesis-driven investigations, persistence analysis, system artifacts, MITRE ATT&CK, YARA and Sigma fundamentals, detection logic, coverage, and validation |
+| 🛡️ **Blue Team & System Hardening** | Linux and FreeBSD security, access controls, SSH hardening, SELinux and AppArmor fundamentals, firewall policies, auditing, and security configuration reviews |
+| 📡 **Security Monitoring & SOC** | SIEM fundamentals, log analysis, IDS/IPS, EDR/XDR concepts, event correlation, alert triage, and monitoring |
+| 🚨 **Incident Response & Digital Forensics** | Incident investigation, evidence preservation, event timelines, containment, eradication, recovery, forensic fundamentals, and reporting |
+| 🌐 **Networking & Threat Intelligence** | TCP/IP, DNS, HTTP/HTTPS, tcpdump, Wireshark, Suricata and Snort fundamentals, traffic investigation, threat intelligence, and vulnerability assessment concepts |
+| 🐍 **Python & Shell Scripting** | Python and Bash automation, log processing, diagnostics, security checks, Docker-based environments, command-line utilities, and automated testing |
+| 🦠 **Malware Analysis & Reverse Engineering — Learning** | Static file inspection, hashes, strings, ELF and PE fundamentals, YARA, Assembly x86-64, disassembly, and introductory binary analysis |
 
 ---
 
 ## 🤖 AI Usage
 
-AI tools assist with research, scripting, and debugging.
-Suggestions are reviewed, understood, and validated through
-testing.
+AI tools, including ChatGPT, assist with research, planning, scripting, debugging, documentation, and technical review.
 
-Projects document AI-assisted work, including limitations
-and incorrect suggestions when relevant.
+Suggestions are reviewed, understood, and validated through testing. AI-generated explanations and proposed solutions are not treated as verified evidence.
 
-AI usage follows confidentiality, data protection, and
-responsible security practices.
+Projects document AI-assisted work, including limitations and incorrect suggestions when relevant.
+
+AI usage follows confidentiality, data protection, and responsible security practices.
 
 ---
 
 ## 📝 Lab Notes
 
-Published experiments document objectives, environments,
-configurations, scripts, commands, observations, test results,
-and lessons learned.
+The laboratory follows an evidence-first approach to technical investigation and documentation.
 
-Each project clearly identifies its scope, dependencies,
-limitations, and status, distinguishing planned activities
-from completed and validated experiments.
+- **Reproducibility:** Published experiments describe objectives, environments, dependencies, configurations, commands, tests, and results.
+- **Evidence:** Investigations document hypotheses, observable artifacts, alternative explanations, and supported conclusions.
+- **Detection quality:** Results distinguish detected, not detected, not tested, and inconclusive scenarios. False positives, false negatives, and coverage limitations are documented.
+- **Transparency:** Planned activities are distinguished from implemented and validated work. Unexpected behavior, failed tests, and incorrect assumptions are documented.
+- **Responsible experimentation:** Only authorized environments and resources are used. Confidential information, production credentials, unauthorized data, and sensitive third-party materials are never published.
 
-The laboratory emphasizes technical accuracy,
-reproducibility, responsible experimentation,
-and evidence-based investigation.
-
-Unexpected behavior, failed tests, false positives,
-and alternative hypotheses are part of the learning
-process and belong in the documentation.
-
-No confidential information, production credentials,
-unauthorized data, or sensitive third-party materials
-are published.
+*Experiments are published here only after their repositories are available and their documented results have been verified.*
 
 ---
 
@@ -117,11 +84,20 @@ are published.
 EXPERIMENTS - INTERNAL PLANNING
 
 This section is intentionally hidden from the rendered README.
-Keep planned experiments hidden until their repositories
-are available and results have been verified.
+It remains visible in the public Markdown source.
+
+Keep planned experiments out of the rendered project list until
+their repositories are available and results have been verified.
 
 Replace repository placeholders with actual URLs.
 Do not present planned work as completed experiments.
+
+When a repository becomes available, consider a visible table:
+ID | Experiment | Focus | Status | Repository
+
+Use accurate status labels such as In Progress or Validated.
+A published repository does not automatically mean its results
+have been validated.
 
 ## 🧪 Experiments
 
@@ -137,6 +113,7 @@ Stack:
 
 Focus:
 - Benign Linux persistence simulations
+- Threat hunting and detection engineering
 - Detection coverage
 - False positives and false negatives
 - Security event investigation
@@ -269,6 +246,8 @@ Status:
 END OF INTERNAL PLANNING
 -->
 
+---
+
 <div align="center">
 
 **"What worries me isn't the advancement of artificial intelligence,**  
@@ -283,3 +262,5 @@ END OF INTERNAL PLANNING
 ## 📫 Contact
 
 **LinkedIn:** [Alexandre Bonnamain](https://www.linkedin.com/in/alexandre-bonnamain/)
+
+**GitHub:** [alexbonnamain](https://github.com/alexbonnamain)
