@@ -39,17 +39,17 @@
 
 ## About the Lab
 
-**Bonnamain Backend Engineering Lab** is a personal software engineering laboratory focused on backend development, relational databases, API design, software architecture, and continuous technical improvement.
+**Bonnamain Backend Engineering Lab** is a personal software engineering laboratory focused on backend development, relational databases, API engineering, and software architecture.
 
-**PHP is the primary programming language**, with Laravel as the main framework and Composer as the dependency manager. The laboratory explores PHP fundamentals, object-oriented programming, maintainable code, and the engineering practices required to build reliable server-side applications.
+**PHP is the primary programming language**, with Laravel as the main framework and Composer as the dependency manager. The laboratory explores modern PHP development, object-oriented programming, maintainable code, and secure server-side applications.
 
-**MySQL is the primary relational database**, supporting hands-on studies in SQL, data modeling, relationships, transactions, constraints, indexing, and data integrity. PostgreSQL and Oracle Database are additional areas of learning and exploration.
+**MySQL is the primary relational database**, supporting hands-on studies in SQL, data modeling, relationships, transactions, indexing, query optimization, and data integrity. PostgreSQL and Oracle Database are additional areas of ongoing learning.
 
-HTML5, CSS3, and JavaScript complement backend development by providing the web fundamentals needed to understand browser behavior, HTTP communication, and frontend/backend integration.
+HTML5, CSS3, and JavaScript complement backend development by providing the web fundamentals necessary to understand browser behavior, HTTP communication, and frontend/backend integration.
 
-The laboratory follows a practical, project-based learning approach, progressing from programming fundamentals to secure APIs, automated testing, database engineering, software architecture, and advanced backend systems.
+The laboratory follows a practical, project-based learning approach, progressing from programming fundamentals to API development, automated testing, software architecture, and advanced backend systems.
 
-The long-term goal is to design, build, test, secure, document, and operate reliable backend applications while continuously developing professional software engineering skills.
+The long-term goal is to build secure, reliable, maintainable, and well-documented backend applications while continuously developing professional engineering skills.
 
 ☕ **Powered by coffee, curiosity, and a genuine passion for software engineering.**
 
@@ -59,18 +59,18 @@ The long-term goal is to design, build, test, secure, document, and operate reli
 
 | Workbench | Technical Focus |
 |---|---|
-| 🐘 **PHP Development** | PHP syntax, data types, OOP, typing, exceptions, namespaces, and maintainable code |
-| 🔴 **Laravel Framework** | Routing, controllers, middleware, Eloquent ORM, migrations, validation, authentication, and REST APIs |
+| 🐘 **PHP Development** | Modern PHP, OOP, typing, exceptions, namespaces, and maintainable code |
+| 🔴 **Laravel Framework** | Routing, controllers, middleware, Eloquent ORM, migrations, authentication, validation, and REST APIs |
 | 📦 **Composer & Dependencies** | Dependency management, package installation, autoloading, and project configuration |
-| 🗄️ **MySQL Engineering** | SQL, relational modeling, joins, constraints, transactions, indexing, and query optimization |
-| 🐘 **PostgreSQL — Learning** | PostgreSQL fundamentals, SQL, relational structures, constraints, and advanced database concepts |
-| 🔴 **Oracle Database — Learning** | Oracle SQL, relational database concepts, PL/SQL fundamentals, and database administration concepts |
-| 🌐 **API Engineering** | HTTP, JSON, API contracts, authentication, authorization, validation, and documentation |
-| 🏗️ **Software Architecture** | SOLID, design patterns, clean architecture, modular design, and separation of concerns |
-| 🛡️ **Application Security** | Secure coding, input validation, OWASP fundamentals, access control, and secret management |
+| 🗄️ **MySQL Engineering** | SQL, database modeling, joins, transactions, constraints, indexing, and query optimization |
+| 🐘 **PostgreSQL — Learning** | PostgreSQL fundamentals, SQL, relational structures, and database features |
+| 🔴 **Oracle Database — Learning** | Oracle SQL, relational database concepts, and PL/SQL fundamentals |
+| 🌐 **API Engineering** | HTTP, JSON, REST APIs, authentication, authorization, validation, and documentation |
+| 🏗️ **Software Architecture** | SOLID, design patterns, modular design, separation of concerns, and maintainability |
+| 🛡️ **Application Security** | Secure coding, OWASP fundamentals, input validation, access control, and secret management |
 | 🧪 **Testing & Quality** | PHPUnit, Pest, debugging, integration testing, static analysis, and code review |
-| 🐳 **Infrastructure & DevOps** | Git, GitHub, Linux, Docker, CI/CD fundamentals, and deployment practices |
-| 🎨 **Web Fundamentals** | HTML5, CSS3, JavaScript, browser behavior, and frontend/backend integration |
+| 🐳 **Infrastructure & DevOps** | Git, GitHub, Linux, Docker, CI/CD fundamentals, and deployment |
+| 🎨 **Web Fundamentals** | HTML5, CSS3, JavaScript, and frontend/backend integration |
 
 ---
 
@@ -78,11 +78,11 @@ The long-term goal is to design, build, test, secure, document, and operate reli
 PROJECTS — INTERNAL PLANNING
 
 This section is intentionally hidden from the rendered README.
-It remains visible to anyone reading the public Markdown source.
+It remains visible in the public Markdown source.
 
-Keep planned projects hidden until their repositories are available.
-Do not present planned functionality as implemented or validated.
-Replace repository placeholders with verified repository URLs.
+Keep projects hidden until their repositories are available.
+Do not present planned features as implemented or validated.
+Replace repository placeholders with actual URLs.
 
 Use accurate status labels:
 - Planned
@@ -90,25 +90,14 @@ Use accurate status labels:
 - Testing
 - Validated
 
-A published repository does not automatically mean its
-implementation has been fully tested or validated.
-
-
 ## 🚀 Engineering Projects
-
-The laboratory follows a progressive, project-based approach
-to backend engineering.
-
-Projects explore real-world engineering problems beyond
-conventional CRUD applications.
 
 | Project | Description | Engineering Focus | Status |
 |---|---|---|---|
 | **Chronos** | Auditable operations and controlled reversals | PHP, Laravel, MySQL, REST APIs, transactions, and versioning | In Development |
 | **Nexus** | Operational crisis simulation platform | Algorithms, Redis, asynchronous processing, and queues | Planned |
-| **Sentinel** | Explainable event risk analysis platform | Event processing, rule engines, idempotency, and observability | Planned |
-| **Atlas** | Resilient distributed workflow orchestrator | Distributed systems, retries, Saga, Outbox, and failure recovery | Planned |
-
+| **Sentinel** | Explainable event risk analysis | Event processing, rule engines, idempotency, and observability | Planned |
+| **Atlas** | Resilient workflow orchestration | Distributed systems, retries, Saga, Outbox, and failure recovery | Planned |
 
 ### PROJECT 01 — CHRONOS
 
@@ -133,27 +122,16 @@ Technical Focus:
 - Automated testing
 - Technical documentation
 
-Deliverables:
-- Documented REST API
-- Relational database schema
-- Authentication and access control
-- Auditable business operations
-- Version history
-- Automated tests
-- Architecture documentation
-- Reproducible development environment
-
 Repository:
 - Add repository URL when available
 
 Status:
 - In Development
 
-
 ### PROJECT 02 — NEXUS
 
 Description:
-Operational crisis simulation and scenario evaluation platform.
+Operational crisis simulation and scenario evaluation.
 
 Primary Stack:
 - PHP
@@ -163,22 +141,12 @@ Primary Stack:
 
 Technical Focus:
 - Business rule modeling
-- Scenario simulations
+- Scenario simulation
 - Algorithms
 - Asynchronous processing
 - Queues and jobs
-- Event handling
 - Performance analysis
 - Reproducible simulation results
-
-Deliverables:
-- Scenario configuration API
-- Simulation execution engine
-- Asynchronous processing
-- Execution history
-- Comparative reports
-- Automated tests
-- Technical documentation
 
 Repository:
 - Add repository URL when available
@@ -186,11 +154,10 @@ Repository:
 Status:
 - Planned
 
-
 ### PROJECT 03 — SENTINEL
 
 Description:
-Event analysis and explainable anomaly detection platform.
+Event analysis and explainable anomaly detection.
 
 Primary Stack:
 - PHP
@@ -209,27 +176,16 @@ Technical Focus:
 - Auditable decisions
 - Observability
 
-Deliverables:
-- Event ingestion API
-- Configurable rule engine
-- Risk scoring mechanism
-- Alert generation
-- Decision audit trail
-- Automated tests
-- Performance measurements
-- Architecture documentation
-
 Repository:
 - Add repository URL when available
 
 Status:
 - Planned
 
-
 ### PROJECT 04 — ATLAS
 
 Description:
-Resilient distributed workflow orchestration platform.
+Resilient distributed workflow orchestration.
 
 Primary Stack:
 - PHP
@@ -248,17 +204,6 @@ Technical Focus:
 - Saga pattern
 - Transactional Outbox
 - Observability
-- Resilience
-
-Deliverables:
-- Workflow management API
-- Workflow execution engine
-- Task dependency management
-- Failure recovery mechanisms
-- Execution monitoring
-- Automated tests
-- CI/CD pipeline
-- Technical documentation
 
 Repository:
 - Add repository URL when available
@@ -266,114 +211,90 @@ Repository:
 Status:
 - Planned
 
-
 END OF INTERNAL PLANNING
 -->
 
 ---
 
-## 🏗️ Engineering Philosophy
+## 🏗️ Engineering Principles
 
-Backend engineering is more than writing code that produces the expected output.
-
-Reliable systems depend on clear requirements, appropriate architecture, sound database design, security, testing, and continuous validation.
-
-The laboratory follows these principles:
+The laboratory follows practical software engineering principles focused on reliability, security, maintainability, and continuous improvement.
 
 - **Correctness:** Software must satisfy documented requirements.
-- **Simplicity:** Prefer understandable solutions over unnecessary complexity.
-- **Maintainability:** Keep code clear, organized, and adaptable.
+- **Simplicity:** Prefer clear solutions over unnecessary complexity.
+- **Maintainability:** Design readable, organized, and adaptable code.
 - **Security:** Consider security throughout the development lifecycle.
-- **Data Integrity:** Protect relational consistency through constraints and appropriate transactions.
-- **Testability:** Verify important behavior through automated and reproducible tests.
+- **Data Integrity:** Protect consistency through constraints and transactions.
+- **Testability:** Verify behavior through reproducible and automated tests.
 - **Performance:** Investigate bottlenecks using measurements and evidence.
-- **Documentation:** Record decisions, dependencies, limitations, and results.
-- **Continuous Improvement:** Refine implementations through experimentation, investigation, and technical review.
+- **Documentation:** Record important decisions, configurations, and limitations.
 
 ---
 
 ## 🔬 Development Practices
 
-The laboratory explores professional engineering practices through practical implementation.
-
 | Practice | Approach |
 |---|---|
-| **Version Control** | Git, meaningful commits, branches, and organized repositories |
-| **Code Organization** | Consistent naming, clear responsibilities, and modular development |
-| **Database Design** | Relational modeling, constraints, relationships, migrations, and transactional consistency |
-| **API Development** | HTTP semantics, JSON responses, input validation, and predictable error handling |
-| **Testing** | Unit tests, integration tests, debugging, and reproducible verification |
-| **Security** | Access control, input validation, secure configuration, and credential protection |
+| **Version Control** | Git, descriptive commits, branches, and organized repositories |
+| **Code Quality** | Consistent naming, clear responsibilities, and code review |
+| **Database Engineering** | Relational models, constraints, migrations, and transactions |
+| **API Development** | HTTP, JSON, validation, authentication, and error handling |
+| **Testing** | Unit tests, integration tests, and reproducible verification |
+| **Security** | Input validation, access control, and credential protection |
 | **Dependency Management** | Composer, autoloading, version constraints, and package review |
-| **Documentation** | Setup guides, API references, architecture notes, and known limitations |
-| **Operations** | Reproducible environments, deployment procedures, logs, and monitoring fundamentals |
+| **Documentation** | Setup instructions, API references, and architecture notes |
+| **Infrastructure** | Reproducible environments, deployment, and monitoring fundamentals |
 
 ---
 
 ## 📚 Learning Roadmap
 
-The backend engineering learning path is organized into progressive stages.
+**Stage 01 — PHP Foundations**  
+Syntax, variables, data types, operators, control structures, arrays, functions, and web fundamentals.
 
-### Stage 01 — PHP Foundations
+**Stage 02 — Object-Oriented PHP**  
+Classes, interfaces, composition, namespaces, exceptions, autoloading, Composer, and coding standards.
 
-PHP syntax, variables, constants, data types, operators, control structures, arrays, functions, and web programming fundamentals.
+**Stage 03 — MySQL & SQL**  
+Relational modeling, SQL, joins, transactions, indexing, constraints, and query optimization.
 
-### Stage 02 — Object-Oriented PHP
+**Stage 04 — Laravel Development**  
+Routing, controllers, middleware, Eloquent ORM, migrations, authentication, authorization, and REST APIs.
 
-Classes, objects, encapsulation, inheritance, composition, interfaces, traits, namespaces, exceptions, autoloading, and Composer.
+**Stage 05 — Software Engineering**  
+SOLID, design patterns, clean architecture, automated testing, secure coding, and code review.
 
-### Stage 03 — MySQL & SQL
+**Stage 06 — Advanced Backend Systems**  
+Redis, queues, events, caching, concurrency, observability, and distributed systems fundamentals.
 
-Relational database modeling, SQL queries, joins, transactions, constraints, indexes, data integrity, and query optimization.
-
-### Stage 04 — Laravel Development
-
-Routing, controllers, middleware, validation, Eloquent ORM, migrations, authentication, authorization, and REST APIs.
-
-### Stage 05 — Software Engineering
-
-SOLID principles, design patterns, code organization, automated testing, secure coding, code review, and architectural decisions.
-
-### Stage 06 — Advanced Backend Systems
-
-Redis, queues, events, caching, asynchronous processing, observability, concurrency, and distributed systems fundamentals.
-
-### Stage 07 — Production Engineering
-
-Linux, Docker, CI/CD, deployment, monitoring, reliability, security reviews, and performance optimization.
+**Stage 07 — Production Engineering**  
+Linux, Docker, CI/CD, deployment, monitoring, reliability, and performance optimization.
 
 ---
 
 ## 🤖 AI-Assisted Engineering
 
-AI tools, including ChatGPT, may assist with technical research, learning, architectural discussions, debugging, code review, testing strategies, and documentation.
+AI tools, including ChatGPT, may assist with research, learning, debugging, architectural discussions, code review, and documentation.
 
-AI-generated code and technical suggestions are not automatically considered correct or production-ready.
+AI-generated suggestions are not automatically considered correct or production-ready. Proposed solutions are reviewed, understood, and validated through testing.
 
-Proposed implementations should be reviewed, understood, and validated through appropriate testing before being accepted.
+The laboratory emphasizes technical independence, critical thinking, reproducibility, and responsible handling of confidential information.
 
-The laboratory emphasizes technical independence, critical thinking, reproducible results, and transparent documentation.
-
-When relevant, projects document AI-assisted work, including limitations, incorrect assumptions, and technical corrections.
-
-AI usage follows confidentiality, data protection, and responsible software engineering practices.
+When relevant, projects document AI-assisted work, including limitations and technical corrections.
 
 ---
 
 ## 📝 Engineering Notes
 
-The laboratory follows an evidence-first approach to software development and technical documentation.
+The laboratory follows an evidence-first approach to technical development.
 
-- **Reproducibility:** Projects document installation steps, dependencies, environment configuration, commands, tests, and expected results.
-- **Verification:** Implemented features are distinguished from tested and validated functionality.
-- **Code Quality:** Code should follow consistent conventions, clear responsibilities, and appropriate abstractions.
-- **Database Reliability:** Data models, relationships, constraints, indexes, and transactional behavior should be documented.
-- **Architecture Decisions:** Important technical choices include their rationale, alternatives, and trade-offs.
-- **Security:** Never publish passwords, tokens, credentials, private information, or sensitive production data.
-- **Transparency:** Planned, experimental, implemented, tested, and validated work must be clearly distinguished.
-- **Continuous Learning:** Technical findings, mistakes, corrections, and improvements are documented when relevant.
+- **Reproducibility:** Document environments, dependencies, configurations, commands, and tests.
+- **Verification:** Distinguish planned functionality from implemented and validated behavior.
+- **Architecture:** Explain important technical decisions and trade-offs.
+- **Transparency:** Record limitations, unexpected results, and necessary corrections.
+- **Security:** Never publish credentials, secrets, or sensitive production data.
 
-*Projects and technical results are published only when their repositories are available and their documentation accurately reflects the work performed.*
+*Projects are published only when their repositories are available and their documentation accurately reflects the work performed.*
 
 ---
 
