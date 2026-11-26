@@ -1,28 +1,29 @@
 
 <div align="center">
 
-# 🧪 Bonnamain Data Engineering Lab
+# 🧪 Bonnamain Data & AI Engineering Lab
 
-**PYTHON · SQL · DATA ENGINEERING**
+**PYTHON · DATA ENGINEERING · ARTIFICIAL INTELLIGENCE**
 
-*Data Pipelines · SQL Engineering · Data Quality · AI/ML Integration*
+*SQL Engineering · Data Pipelines · Machine Learning · AI Applications*
 
-### CORE TECHNOLOGIES
+###   CORE TECHNOLOGIES
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-###  DATA PROCESSING & DATABASES — LEARNING
+###   DATA & AI TECHNOLOGIES — LEARNING
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-`INGEST` → `VALIDATE` → `TRANSFORM` → `STORE` → `DELIVER`
+`INGEST` → `PROCESS` → `VALIDATE` → `LEARN` → `DELIVER`
 
 </div>
 
@@ -30,17 +31,15 @@
 
 ## About the Lab
 
-**Bonnamain Data Engineering Lab** is a personal engineering laboratory focused on Data Engineering, relational databases, data processing, and the integration of Artificial Intelligence and Machine Learning.
+**Bonnamain Data & AI Engineering Lab** is a personal engineering laboratory focused on Python, Data Engineering, and the practical integration of Artificial Intelligence and Machine Learning.
 
-**Python is the primary programming language**, supporting practical exploration of automation, API integration, data extraction, transformation, validation, and pipeline development.
+Python and SQL form the technical foundation, supporting studies and experiments in automation, relational databases, data processing, API integration, and pipeline development.
 
-**SQL and relational databases form the technical foundation**, with MySQL supporting hands-on work in data modeling, queries, transactions, indexing, optimization, and data integrity.
+The laboratory explores how structured data and reliable engineering practices support intelligent applications, predictive models, and AI-powered solutions.
 
-The laboratory follows a practical, project-based approach that emphasizes technical understanding, reproducible experimentation, and evidence-based engineering decisions.
+My approach emphasizes practical experimentation, reproducible workflows, technical understanding, and evidence-based decisions.
 
-Artificial Intelligence and Machine Learning complement this approach through reliable data preparation, model integration concepts, and intelligent data applications.
-
-The central objective is to engineer **secure, reliable, maintainable, and scalable data systems**, with a strong commitment to correctness, technical independence, and continuous improvement.
+The objective is to develop secure, maintainable, and reliable systems that connect data infrastructure with applied artificial intelligence.
 
 ---
 
@@ -48,35 +47,33 @@ The central objective is to engineer **secure, reliable, maintainable, and scala
 
 | Workbench | Technical Focus |
 |---|---|
-| 🐍 **Python Engineering** | Automation, APIs, data processing, file handling, and modular programming |
-| 🗄️ **SQL & Database Engineering** | MySQL, relational modeling, joins, CTEs, transactions, and indexing |
-| 🔄 **Data Pipelines** | Data ingestion, ETL/ELT, batch processing, and incremental loading |
-| 📊 **Data Processing** | Pandas, data transformation, validation, and structured datasets |
-| 🧱 **Data Architecture** | Relational modeling, storage design, and architectural fundamentals |
-| 🛡️ **Data Quality** | Validation, completeness, consistency, uniqueness, and data integrity |
-| 🤖 **AI & Machine Learning Integration** | Data preparation, model integration concepts, evaluation, and intelligent applications |
+| 🐍 **Python Engineering** | Automation, APIs, modular programming, data processing, and testing |
+| 🗄️ **SQL & Database Engineering** | MySQL, relational modeling, queries, joins, transactions, and data integrity |
+| 🔄 **Data Engineering** | ETL/ELT, data ingestion, transformation, validation, and pipelines |
+| 📊 **Data Processing** | Pandas, structured datasets, cleaning, and preparation |
+| 🧠 **Machine Learning — Learning** | Model fundamentals, feature preparation, training, and evaluation |
+| 🤖 **AI Engineering — Learning** | AI APIs, LLM integration, RAG concepts, and intelligent applications |
+| 🛡️ **Engineering Quality** | Testing, reproducibility, documentation, and secure development |
 
-*Workbench topics represent areas of engineering practice and ongoing study, not claims of professional mastery.*
+*These workbenches represent practical studies and areas of technical development, not claims of professional mastery.*
 
 ---
 
-## 🔬 Currently Working On
+## 🔬 Current Engineering Focus
 
-The laboratory focuses on building practical Data Engineering skills through reproducible development and structured experimentation.
+My current work and studies concentrate on building a solid technical foundation in Python, Data Engineering, and applied AI.
 
-**Current technical focus:**
+**Technical focus:**
 
-- Python programming and data processing
-- SQL and relational database engineering
-- Data extraction from public APIs and structured files
-- Data transformation and validation
-- ETL/ELT pipeline development
-- Error handling and reproducible workflows
-- Automated testing and technical documentation
+- Python programming and software development
+- SQL and relational databases
+- API integration and data processing
+- Data ingestion and ETL/ELT concepts
+- Data preparation for Machine Learning
+- AI API integration and intelligent applications
+- Testing, documentation, and reproducible workflows
 
-**Current project initiative:** Developing HYDRA, an environmental data engineering project centered on building a reproducible ingestion pipeline using Python, SQL, and public environmental datasets.
-
-The emphasis is on understanding each component, documenting technical decisions, and validating implementations through practical testing.
+The emphasis is on building systems that are understandable, testable, and maintainable.
 
 ---
 
@@ -87,30 +84,27 @@ The emphasis is on understanding each component, documenting technical decisions
 ![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-2563EB?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-0F766E?style=for-the-badge)
-![Data Quality](https://img.shields.io/badge/Data_Quality-475569?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0F766E?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI_Integration-6D28D9?style=for-the-badge)
 
-**HYDRA** is an environmental Data Engineering project focused on designing a reliable, maintainable, and reproducible data ingestion and processing pipeline.
-
-The project addresses the challenge of transforming environmental information from public data sources into consistent, validated, and structured datasets.
+HYDRA is an environmental data engineering project designed to integrate public datasets, process historical information, and explore AI-assisted analysis.
 
 **Engineering scope:**
 
 - Public API data ingestion
-- Python-based ETL/ELT pipelines
+- Python-based data pipelines
 - SQL and relational data modeling
-- Data normalization and validation
-- Historical data storage
-- Incremental data processing
-- Error handling and execution logging
-- Automated testing
-- Technical documentation
+- Data cleaning and validation
+- Historical data processing
+- Automated testing and logging
+- Experimental Machine Learning applications
+- AI-assisted analysis with verifiable data sources
 
-**Development approach:** Incremental implementation, modular design, reproducible workflows, and evidence-based technical decisions.
+**Development approach:** Incremental implementation, reproducibility, modular design, and validation before adding complexity.
 
-**Project status:** In Progress
+**Status:** In Progress
 
-*Implementation details, source code, and verified results are documented as development progresses.*
+*AI and Machine Learning features are exploratory and are not presented as completed implementations.*
 
 ---
 
@@ -118,40 +112,28 @@ The project addresses the challenge of transforming environmental information fr
 
 FUTURE ENGINEERING PROJECTS — PLACEHOLDER
 
-This section is intentionally not displayed in the rendered README.
-
-Add new projects below only when development has started
-and their technical scope has been defined.
+Add future projects here when development begins.
 
 Recommended template:
 
-### PROJECT NAME — Project Description
+### PROJECT NAME — DESCRIPTION
 
 Status:
 - In Progress
 
 Engineering Objective:
-- Describe the real problem being addressed.
+- Describe the problem.
 
 Technology Stack:
 - List technologies actually being used.
 
 Technical Scope:
-- Data ingestion
-- Data processing
-- Data validation
-- Database engineering
-- Testing and documentation
+- Main capabilities under development.
 
 Repository:
-- Add verified GitHub repository URL.
+- Add verified GitHub URL.
 
-Implementation Notes:
-- Document implemented features.
-- Identify limitations.
-- Record validated results.
-
-END OF FUTURE PROJECTS PLACEHOLDER
+END OF PROJECT PLACEHOLDER
 
 -->
 
@@ -159,18 +141,16 @@ END OF FUTURE PROJECTS PLACEHOLDER
 
 ## 🏗️ Engineering Principles & Practices
 
-The laboratory follows an engineering-first approach based on correctness, simplicity, reliability, and maintainability.
-
 | Principle | Engineering Approach |
 |---|---|
-| **Correctness** | Implement and verify documented requirements |
-| **Simplicity** | Favor clear, readable, and maintainable solutions |
-| **Data Integrity** | Preserve consistency through constraints and validation |
-| **Reliability** | Handle errors and processing failures predictably |
-| **Testability** | Verify behavior through reproducible and automated tests |
-| **Observability** | Monitor execution and investigate system failures |
+| **Correctness** | Verify expected behavior and documented requirements |
+| **Simplicity** | Prefer maintainable systems over unnecessary complexity |
+| **Data Integrity** | Validate datasets and preserve consistency |
+| **Reliability** | Handle errors and failures predictably |
+| **Testability** | Validate implementations through automated tests |
 | **Security** | Protect credentials, permissions, and sensitive information |
-| **Documentation** | Record dependencies, data sources, assumptions, and technical decisions |
+| **Reproducibility** | Document environments, dependencies, and execution steps |
+| **Documentation** | Explain technical decisions, assumptions, and limitations |
 
 ---
 
@@ -183,9 +163,9 @@ The laboratory follows an engineering-first approach based on correctness, simpl
 
 </div>
 
-ChatGPT and Claude AI support technical research, structured learning, debugging, code review, and architectural discussions.
+ChatGPT and Claude AI support technical research, learning, debugging, code review, and architectural discussions.
 
-AI-assisted solutions require independent understanding, technical validation, and reproducible testing. Responsibility for engineering decisions remains human.
+AI-assisted solutions require independent understanding, technical validation, and reproducible testing. Engineering decisions remain under human responsibility.
 
 **Artificial Intelligence supports engineering judgment. It does not replace it.**
 
