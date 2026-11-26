@@ -1,29 +1,31 @@
 
 <div align="center">
 
-# ⚙️ Bonnamain Backend Engineering Lab
+# ⚙️ Bonnamain Data Engineering Lab
 
-**PHP · LARAVEL · COMPOSER · MYSQL**
+**PYTHON · SQL · DATA PIPELINES · DATA ARCHITECTURE**
 
-*Backend Development · REST APIs · Software Architecture · Database Engineering*
+*Data Engineering · ETL/ELT · Big Data · DataOps · Cloud Data Platforms*
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DATABASE TECHNOLOGIES — LEARNING**
+**DATA PROCESSING & DATABASE TECHNOLOGIES — LEARNING**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-**WEB FUNDAMENTALS**
+**DATA ORCHESTRATION & STREAMING — LEARNING**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-**DEVELOPMENT TOOLS — PRACTICE & LEARNING**
+**CLOUD & ENGINEERING TOOLS — PRACTICE & LEARNING**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -31,7 +33,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-`DESIGN` → `DEVELOP` → `TEST` → `SECURE` → `OPTIMIZE` → `DEPLOY`
+`INGEST` → `VALIDATE` → `TRANSFORM` → `STORE` → `ORCHESTRATE` → `MONITOR`
 
 </div>
 
@@ -39,19 +41,19 @@
 
 ## About the Lab
 
-**Bonnamain Backend Engineering Lab** is a personal software engineering laboratory focused on backend development, relational databases, API engineering, and software architecture.
+**Bonnamain Data Engineering Lab** is a personal engineering laboratory focused on data pipelines, relational databases, data processing, data architecture, and reliable data systems.
 
-**PHP is the primary programming language**, with Laravel as the main framework and Composer as the dependency manager. The laboratory explores modern PHP development, object-oriented programming, maintainable code, and secure server-side applications.
+**Python is the primary programming language**, supporting hands-on studies in data ingestion, automation, API integration, file processing, data transformation, and pipeline development.
 
-**MySQL is the primary relational database**, supporting hands-on studies in SQL, data modeling, relationships, transactions, indexing, query optimization, and data integrity. PostgreSQL and Oracle Database are additional areas of ongoing learning.
+**SQL and relational databases are core foundations**, with MySQL supporting practical work in data modeling, relationships, joins, transactions, indexing, query optimization, and data integrity. PostgreSQL is an additional area of ongoing learning.
 
-HTML5, CSS3, and JavaScript complement backend development by providing the web fundamentals necessary to understand browser behavior, HTTP communication, and frontend/backend integration.
+The laboratory explores modern Data Engineering concepts, including ETL and ELT architectures, batch processing, streaming systems, data orchestration, data quality, observability, and cloud-based data platforms.
 
-The laboratory follows a practical, project-based learning approach, progressing from programming fundamentals to API development, automated testing, software architecture, and advanced backend systems.
+The learning approach is practical and project-based, progressing from programming and database fundamentals to reliable pipelines, distributed processing, and production-oriented data architectures.
 
-The long-term goal is to build secure, reliable, maintainable, and well-documented backend applications while continuously developing professional engineering skills.
+The long-term goal is to develop the technical knowledge required to design **scalable, secure, maintainable, and trustworthy data systems**, while continuously strengthening professional engineering skills.
 
-☕ **Powered by coffee, curiosity, and a genuine passion for software engineering.**
+☕ **Powered by coffee, curiosity, and a genuine passion for Data Engineering.**
 
 ---
 
@@ -59,22 +61,26 @@ The long-term goal is to build secure, reliable, maintainable, and well-document
 
 | Workbench | Technical Focus |
 |---|---|
-| 🐘 **PHP Development** | Modern PHP, OOP, typing, exceptions, namespaces, and maintainable code |
-| 🔴 **Laravel Framework** | Routing, controllers, middleware, Eloquent ORM, migrations, authentication, validation, and REST APIs |
-| 📦 **Composer & Dependencies** | Dependency management, package installation, autoloading, and project configuration |
-| 🗄️ **MySQL Engineering** | SQL, database modeling, joins, transactions, constraints, indexing, and query optimization |
-| 🐘 **PostgreSQL — Learning** | PostgreSQL fundamentals, SQL, relational structures, and database features |
-| 🔴 **Oracle Database — Learning** | Oracle SQL, relational database concepts, and PL/SQL fundamentals |
-| 🌐 **API Engineering** | HTTP, JSON, REST APIs, authentication, authorization, validation, and documentation |
-| 🏗️ **Software Architecture** | SOLID, design patterns, modular design, separation of concerns, and maintainability |
-| 🛡️ **Application Security** | Secure coding, OWASP fundamentals, input validation, access control, and secret management |
-| 🧪 **Testing & Quality** | PHPUnit, Pest, debugging, integration testing, static analysis, and code review |
-| 🐳 **Infrastructure & DevOps** | Git, GitHub, Linux, Docker, CI/CD fundamentals, and deployment |
-| 🎨 **Web Fundamentals** | HTML5, CSS3, JavaScript, and frontend/backend integration |
+| 🐍 **Python Engineering** | Python, automation, APIs, file processing, error handling, and modular programming |
+| 🗄️ **SQL Engineering** | Joins, subqueries, CTEs, window functions, transactions, and query optimization |
+| 🐬 **MySQL Engineering** | Relational modeling, data integrity, constraints, indexing, and database performance |
+| 🐘 **PostgreSQL — Learning** | PostgreSQL fundamentals, relational structures, advanced SQL, and database features |
+| 🔄 **Data Pipelines** | Data ingestion, ETL, ELT, incremental processing, and pipeline reliability |
+| 📊 **Data Processing** | Pandas, NumPy, DuckDB, data transformation, and columnar formats |
+| ⚡ **Big Data — Learning** | Apache Spark, distributed processing, partitioning, and scalable transformations |
+| 🌊 **Streaming — Learning** | Apache Kafka, event-driven architectures, and streaming data processing |
+| 🛠️ **Data Orchestration — Learning** | Apache Airflow, workflow scheduling, task dependencies, and pipeline automation |
+| 🧱 **Data Modeling** | Relational modeling, dimensional modeling, fact tables, dimensions, and data warehouses |
+| 🏗️ **Data Architecture** | Data lakes, data warehouses, lakehouses, storage layers, and architectural trade-offs |
+| 🛡️ **Data Quality & Governance** | Validation, schema management, data lineage, metadata, and access control |
+| 🔬 **Testing & Observability** | Automated testing, monitoring, logging, freshness checks, and failure analysis |
+| ☁️ **Cloud Data Engineering — Learning** | Cloud fundamentals, managed data services, scalability, and cost awareness |
+| 🐳 **Infrastructure & DataOps** | Git, GitHub, Docker, Linux, CI/CD fundamentals, and reproducible environments |
 
 ---
 
 <!--
+
 PROJECTS — INTERNAL PLANNING
 
 This section is intentionally hidden from the rendered README.
@@ -90,63 +96,55 @@ Use accurate status labels:
 - Testing
 - Validated
 
-## 🚀 Engineering Projects
+## 🚀 Data Engineering Projects
 
 | Project | Description | Engineering Focus | Status |
 |---|---|---|---|
-| **Chronos** | Auditable operations and controlled reversals | PHP, Laravel, MySQL, REST APIs, transactions, and versioning | In Development |
-| **Nexus** | Operational crisis simulation platform | Algorithms, Redis, asynchronous processing, and queues | Planned |
-| **Sentinel** | Explainable event risk analysis | Event processing, rule engines, idempotency, and observability | Planned |
-| **Atlas** | Resilient workflow orchestration | Distributed systems, retries, Saga, Outbox, and failure recovery | Planned |
+| **Hydra** | Environmental data intelligence and monitoring | Python, SQL, PostgreSQL, ETL, APIs, data quality, and geospatial data | Planned |
+| **Sentinel** | Data reliability and observability platform | Python, SQL, data validation, schema monitoring, and pipeline observability | Planned |
+| **Nexus** | Event-driven operational intelligence platform | Python, SQL, Kafka, Spark, streaming, and fault-tolerant processing | Planned |
 
-### PROJECT 01 — CHRONOS
+### PROJECT 01 — HYDRA
 
 Description:
-Auditable operations and reversible decision management.
+Environmental Data Intelligence Platform.
+
+Hydra is a data engineering project designed to integrate,
+validate, transform, and organize environmental,
+meteorological, and hydrological datasets.
 
 Primary Stack:
-- PHP
-- Laravel
-- Composer
-- MySQL
+- Python
+- SQL
+- PostgreSQL
+- PostGIS
+- Pandas
+- DuckDB
+- Parquet
 
 Technical Focus:
-- REST API development
-- Authentication and authorization
-- Database modeling
-- Transactions
-- Audit trails
-- Historical state reconstruction
-- Version comparison
-- Controlled reversal of operations
+- REST API ingestion
+- Data extraction
+- ETL and ELT pipelines
+- Data normalization
+- Data validation
+- Historical data storage
+- Incremental processing
+- Geospatial data modeling
+- Pipeline orchestration
+- Logging and monitoring
+- Data freshness verification
 - Automated testing
 - Technical documentation
 
-Repository:
-- Add repository URL when available
-
-Status:
-- In Development
-
-### PROJECT 02 — NEXUS
-
-Description:
-Operational crisis simulation and scenario evaluation.
-
-Primary Stack:
-- PHP
-- Laravel
-- MySQL
-- Redis
-
-Technical Focus:
-- Business rule modeling
-- Scenario simulation
-- Algorithms
-- Asynchronous processing
-- Queues and jobs
-- Performance analysis
-- Reproducible simulation results
+Engineering Objectives:
+- Develop reproducible ingestion pipelines
+- Preserve data quality and integrity
+- Handle incomplete and inconsistent records
+- Maintain traceable historical datasets
+- Design maintainable pipeline components
+- Evaluate processing performance
+- Document architectural decisions
 
 Repository:
 - Add repository URL when available
@@ -154,27 +152,47 @@ Repository:
 Status:
 - Planned
 
-### PROJECT 03 — SENTINEL
+### PROJECT 02 — SENTINEL
 
 Description:
-Event analysis and explainable anomaly detection.
+Data Reliability and Observability Platform.
+
+Sentinel is a data engineering project designed to monitor
+pipeline execution, validate datasets, identify anomalies,
+and improve trust in data processing systems.
 
 Primary Stack:
-- PHP
-- Laravel
-- MySQL
-- Redis
+- Python
+- SQL
+- PostgreSQL
+- Pandera
+- FastAPI
+- OpenTelemetry
 
 Technical Focus:
-- Event ingestion
-- Event normalization
-- Rule-based detection
-- Risk scoring
-- Historical analysis
-- Idempotent processing
-- Concurrency control
-- Auditable decisions
+- Data quality validation
+- Schema drift detection
+- Duplicate detection
+- Missing data identification
+- Dataset completeness
+- Data freshness monitoring
+- Pipeline execution tracking
+- Error classification
+- Failure detection
+- Incident reporting
+- Data lineage
 - Observability
+- Automated testing
+- Technical documentation
+
+Engineering Objectives:
+- Detect data quality issues
+- Monitor pipeline reliability
+- Track execution history
+- Investigate processing failures
+- Improve pipeline transparency
+- Build reproducible validation workflows
+- Document technical limitations
 
 Repository:
 - Add repository URL when available
@@ -182,28 +200,48 @@ Repository:
 Status:
 - Planned
 
-### PROJECT 04 — ATLAS
+### PROJECT 03 — NEXUS
 
 Description:
-Resilient distributed workflow orchestration.
+Real-Time Data and Event Processing Platform.
+
+Nexus is a data engineering project focused on
+event ingestion, streaming architectures,
+operational intelligence, and reliable data processing.
 
 Primary Stack:
-- PHP
-- Laravel
-- MySQL
-- Redis
+- Python
+- SQL
+- PostgreSQL
+- Apache Kafka
+- Apache Spark
 - Docker
 
 Technical Focus:
-- Distributed workflows
-- Asynchronous tasks
-- Workflow state management
+- Synthetic event generation
+- Event ingestion
+- Event normalization
+- Streaming pipelines
+- Batch processing
+- Duplicate prevention
+- Idempotent processing
+- Event ordering
 - Retry strategies
-- Idempotency
 - Failure recovery
-- Saga pattern
-- Transactional Outbox
-- Observability
+- Operational metrics
+- Distributed processing
+- Performance analysis
+- Automated testing
+- Technical documentation
+
+Engineering Objectives:
+- Design event-driven data pipelines
+- Compare batch and streaming architectures
+- Process operational events reliably
+- Handle duplicate and delayed events
+- Develop fault-tolerant processing strategies
+- Evaluate system performance
+- Document architectural trade-offs
 
 Repository:
 - Add repository URL when available
@@ -212,22 +250,25 @@ Status:
 - Planned
 
 END OF INTERNAL PLANNING
+
 -->
 
 ---
 
 ## 🏗️ Engineering Principles
 
-The laboratory follows practical software engineering principles focused on reliability, security, maintainability, and continuous improvement.
+The laboratory follows practical Data Engineering principles focused on reliability, data integrity, maintainability, security, and continuous improvement.
 
-- **Correctness:** Software must satisfy documented requirements.
-- **Simplicity:** Prefer clear solutions over unnecessary complexity.
-- **Maintainability:** Design readable, organized, and adaptable code.
-- **Security:** Consider security throughout the development lifecycle.
-- **Data Integrity:** Protect consistency through constraints and transactions.
-- **Testability:** Verify behavior through reproducible and automated tests.
-- **Performance:** Investigate bottlenecks using measurements and evidence.
-- **Documentation:** Record important decisions, configurations, and limitations.
+- **Correctness:** Data pipelines must satisfy documented requirements and preserve expected behavior.
+- **Simplicity:** Prefer clear and maintainable solutions over unnecessary architectural complexity.
+- **Data Integrity:** Protect consistency through validation, constraints, transactions, and controlled transformations.
+- **Reliability:** Design pipelines to handle predictable failures and recover safely.
+- **Idempotency:** Ensure repeated processing does not produce unintended duplicate results.
+- **Observability:** Monitor execution, identify failures, and understand system behavior.
+- **Scalability:** Evaluate processing requirements and scale based on measured needs.
+- **Security:** Protect credentials, datasets, infrastructure, and access permissions.
+- **Testability:** Verify transformations and pipeline behavior through reproducible automated tests.
+- **Documentation:** Record data sources, assumptions, dependencies, architectural decisions, and limitations.
 
 ---
 
@@ -236,63 +277,77 @@ The laboratory follows practical software engineering principles focused on reli
 | Practice | Approach |
 |---|---|
 | **Version Control** | Git, descriptive commits, branches, and organized repositories |
-| **Code Quality** | Consistent naming, clear responsibilities, and code review |
-| **Database Engineering** | Relational models, constraints, migrations, and transactions |
-| **API Development** | HTTP, JSON, validation, authentication, and error handling |
-| **Testing** | Unit tests, integration tests, and reproducible verification |
-| **Security** | Input validation, access control, and credential protection |
-| **Dependency Management** | Composer, autoloading, version constraints, and package review |
-| **Documentation** | Setup instructions, API references, and architecture notes |
-| **Infrastructure** | Reproducible environments, deployment, and monitoring fundamentals |
+| **Python Development** | Modular code, virtual environments, dependency management, and error handling |
+| **SQL Development** | Readable queries, efficient joins, indexing, constraints, and query analysis |
+| **Data Modeling** | Relational schemas, normalization, dimensional modeling, and documented structures |
+| **Data Ingestion** | API integration, file processing, validation, and reliable extraction |
+| **ETL & ELT** | Repeatable transformations, incremental processing, and controlled data loading |
+| **Data Quality** | Schema validation, consistency checks, completeness, and duplicate detection |
+| **Pipeline Testing** | Unit tests, integration tests, sample datasets, and reproducible verification |
+| **Monitoring** | Structured logging, execution tracking, alerts, and failure investigation |
+| **Security** | Secret management, least-privilege access, and safe data handling |
+| **Documentation** | Setup instructions, architecture diagrams, data contracts, and technical notes |
+| **Infrastructure** | Reproducible environments, containerization, CI/CD, and cloud fundamentals |
 
 ---
 
 ## 📚 Learning Roadmap
 
-**Stage 01 — PHP Foundations**  
-Syntax, variables, data types, operators, control structures, arrays, functions, and web fundamentals.
+**Stage 01 — Python Foundations**  
+Syntax, control structures, functions, data structures, modules, file handling, exceptions, virtual environments, and automation.
 
-**Stage 02 — Object-Oriented PHP**  
-Classes, interfaces, composition, namespaces, exceptions, autoloading, Composer, and coding standards.
+**Stage 02 — Python for Data Engineering**  
+API integration, JSON, CSV, Pandas, NumPy, data transformations, error handling, and reusable data processing components.
 
-**Stage 03 — MySQL & SQL**  
-Relational modeling, SQL, joins, transactions, indexing, constraints, and query optimization.
+**Stage 03 — SQL & Relational Databases**  
+Relational modeling, joins, subqueries, CTEs, window functions, transactions, indexing, constraints, and query optimization.
 
-**Stage 04 — Laravel Development**  
-Routing, controllers, middleware, Eloquent ORM, migrations, authentication, authorization, and REST APIs.
+**Stage 04 — Data Pipelines & ETL/ELT**  
+Data ingestion, transformation, loading strategies, incremental processing, pipeline design, and reproducible workflows.
 
-**Stage 05 — Software Engineering**  
-SOLID, design patterns, clean architecture, automated testing, secure coding, and code review.
+**Stage 05 — Data Modeling & Storage**  
+Relational modeling, dimensional modeling, data warehouses, data lakes, lakehouses, Parquet, partitioning, and storage architecture.
 
-**Stage 06 — Advanced Backend Systems**  
-Redis, queues, events, caching, concurrency, observability, and distributed systems fundamentals.
+**Stage 06 — Data Quality & Orchestration**  
+Validation, schema management, completeness checks, Apache Airflow, scheduling, dependencies, logging, and monitoring.
 
-**Stage 07 — Production Engineering**  
-Linux, Docker, CI/CD, deployment, monitoring, reliability, and performance optimization.
+**Stage 07 — Big Data & Distributed Processing**  
+Apache Spark, distributed data processing, partitioning, performance optimization, and scalable transformations.
+
+**Stage 08 — Streaming Data Engineering**  
+Apache Kafka, event-driven architectures, streaming ingestion, idempotency, event ordering, and fault tolerance.
+
+**Stage 09 — Cloud Data Engineering**  
+Cloud fundamentals, managed data services, storage, compute, IAM, deployment strategies, and cost optimization.
+
+**Stage 10 — Production Data Engineering**  
+Docker, Linux, CI/CD, automated testing, observability, security, deployment, reliability, and production-oriented architecture.
 
 ---
 
 ## 🤖 AI-Assisted Engineering
 
-AI tools, including ChatGPT, may assist with research, learning, debugging, architectural discussions, code review, and documentation.
+AI tools, including ChatGPT, may assist with technical research, learning, debugging, data pipeline design, architectural discussions, code review, and documentation.
 
-AI-generated suggestions are not automatically considered correct or production-ready. Proposed solutions are reviewed, understood, and validated through testing.
+AI-generated suggestions are not automatically considered correct, secure, or production-ready. Proposed solutions must be understood, reviewed, and validated through appropriate testing.
 
-The laboratory emphasizes technical independence, critical thinking, reproducibility, and responsible handling of confidential information.
+The laboratory emphasizes technical independence, critical thinking, reproducibility, responsible data handling, and evidence-based engineering decisions.
 
-When relevant, projects document AI-assisted work, including limitations and technical corrections.
+When relevant, projects document AI-assisted work, including technical limitations, validation procedures, and corrections.
 
 ---
 
 ## 📝 Engineering Notes
 
-The laboratory follows an evidence-first approach to technical development.
+The laboratory follows an evidence-first approach to Data Engineering.
 
-- **Reproducibility:** Document environments, dependencies, configurations, commands, and tests.
-- **Verification:** Distinguish planned functionality from implemented and validated behavior.
-- **Architecture:** Explain important technical decisions and trade-offs.
-- **Transparency:** Record limitations, unexpected results, and necessary corrections.
-- **Security:** Never publish credentials, secrets, or sensitive production data.
+- **Reproducibility:** Document environments, dependencies, configurations, commands, data sources, and execution steps.
+- **Data Quality:** Verify completeness, consistency, validity, uniqueness, and expected schema behavior.
+- **Pipeline Reliability:** Record failure scenarios, retry strategies, recovery procedures, and operational limitations.
+- **Traceability:** Maintain records of data origins, transformations, execution history, and important decisions.
+- **Architecture:** Explain technical decisions, trade-offs, scaling assumptions, and performance considerations.
+- **Transparency:** Distinguish planned functionality from implemented, tested, and validated behavior.
+- **Security:** Never publish credentials, tokens, private keys, sensitive datasets, or confidential information.
 
 *Projects are published only when their repositories are available and their documentation accurately reflects the work performed.*
 
@@ -300,10 +355,9 @@ The laboratory follows an evidence-first approach to technical development.
 
 <div align="center">
 
-**"What worries me isn't the advancement of artificial intelligence,**  
-**but the decline of natural human intelligence."**
+**"Without data, you're just another person with an opinion."**
 
-*— Original author unknown*
+*— W. Edwards Deming (commonly attributed)*
 
 </div>
 
@@ -314,3 +368,4 @@ The laboratory follows an evidence-first approach to technical development.
 **LinkedIn:** [Alexandre Bonnamain](https://www.linkedin.com/in/alexandre-bonnamain/)
 
 **GitHub:** [alexbonnamain](https://github.com/alexbonnamain)
+
